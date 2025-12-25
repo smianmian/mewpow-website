@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>产品数据管理工具 (全语种版) - MEWPOW</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 2rem;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 2rem;
+            padding: 3rem;
+            box-shadow: 0 25px 50px rgba(0, 0, 0, 0.3);
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .subtitle {
+            color: #64748b;
+            margin-bottom: 3rem;
+            font-size: 1.125rem;
+        }
+
+        .section {
+            margin-bottom: 3rem;
+        }
+
+        .section h2 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: #0f172a;
+        }
+
+        .upload-area {
+            border: 3px dashed #e2e8f0;
+            border-radius: 1rem;
+            padding: 3rem;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .upload-area:hover {
+            border-color: #667eea;
+            background: #f8fafc;
+        }
+
+        .upload-area.dragover {
+            border-color: #667eea;
+            background: #ede9fe;
+        }
+
+        input[type="file"] {
+            display: none;
+        }
+
+        .btn {
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            font-weight: 600;
+            cursor: pointer;
+            border: none;
+            font-size: 1rem;
+            transition: all 0.3s;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.3);
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 15px 35px rgba(102, 126, 234, 0.4);
+        }
+
+        .btn-secondary {
+            background: #f1f5f9;
+            color: #64748b;
+        }
+
+        .btn-secondary:hover {
+            background: #e2e8f0;
+        }
+
+        .preview {
+            background: #f8fafc;
+            border-radius: 1rem;
+            padding: 2rem;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+
+        .preview pre {
+            font-family: 'Monaco', 'Courier New', monospace;
+            font-size: 0.875rem;
+            line-height: 1.6;
+            color: #0f172a;
+        }
+
+        .instructions {
+            background: #fef3c7;
+            border-left: 4px solid #f59e0b;
+            padding: 1.5rem;
+            border-radius: 0.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .instructions h3 {
+            color: #92400e;
+            margin-bottom: 0.5rem;
+        }
+
+        .instructions ul {
+            margin-left: 1.5rem;
+            color: #78350f;
+        }
+
+        .instructions li {
+            margin-bottom: 0.5rem;
+        }
+
+        .success {
+            background: #d1fae5;
+            border-left: 4px solid #10b981;
+            padding: 1rem;
+            border-radius: 0.5rem;
+            color: #065f46;
+            margin-top: 1rem;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 1rem;
+            display: block;
+            overflow-x: auto;
+            white-space: nowrap;
+        }
+
+        th,
+        td {
+            padding: 0.75rem;
+            text-align: left;
+            border-bottom: 1px solid #e2e8f0;
+        }
+
+        th {
+            background: #f8fafc;
+            font-weight: 600;
+            color: #475569;
+        }
+
+        .category-badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 50px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>📊 产品数据管理工具 (全语种版)</h1>
+        <p class="subtitle">支持：中(简/繁)、英、日、韩、德、法、西</p>
+
+        <div class="instructions">
+            <h3>📝 使用说明</h3>
+            <ul>
+                <li><strong>第1步</strong>: 点击下方灰色按钮“下载Excel模板”，获取最新的全语种表格。</li>
+                <li><strong>第2步</strong>: 在Excel中填写产品信息。注意：
+                    <ul>
+                        <li><strong>ID</strong>: 必须唯一，建议用英文（如 humidifier-01）。</li>
+                        <li><strong>类别</strong>: 只能填以下单词：humidifier, hairdryer, heater, fan, purifier, toothbrush,
+                            shoedryer, mosquito, trimmer。</li>
+                        <li><strong>图片路径</strong>: 填写如 /products/humidifier/x1.jpg，确保图片文件真的放在那个文件夹里。</li>
+                    </ul>
+                </li>
+                <li><strong>第3步</strong>: 将填好的Excel文件拖拽到下方虚线框内。</li>
+                <li><strong>第4步</strong>: 点击“下载 products.json”，将下载的文件改名为 <code>products.json</code>，覆盖网站文件夹里的同名文件。</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>1. 上传填好的Excel文件</h2>
+            <div class="upload-area" id="uploadArea">
+                <p style="font-size: 3rem; margin-bottom: 1rem;">📁</p>
+                <p style="font-size: 1.25rem; font-weight: 600; margin-bottom: 0.5rem;">点击选择文件 或 拖拽到此处</p>
+                <p style="color: #64748b;">支持 .xlsx 和 .xls 格式</p>
+                <input type="file" id="fileInput" accept=".xlsx,.xls">
+            </div>
+            <div style="text-align: center; margin-top: 1rem;">
+                <button class="btn btn-secondary" id="downloadTemplate">⬇️ 下载Excel模板 (含8种语言)</button>
+            </div>
+        </div>
+
+        <div class="section" id="previewSection" style="display: none;">
+            <h2>2. 数据预览 & 下载</h2>
+            <div class="success">
+                ✅ 转换成功！共识别到 <span id="productCount">0</span> 个产品。请检查下方表格是否正确。
+            </div>
+            <div id="tablePreview"></div>
+
+            <div style="margin-top: 2rem; display: flex; gap: 1rem; justify-content: center;">
+                <button class="btn btn-primary" id="downloadBtn" style="font-size: 1.2rem; padding: 1.2rem 3rem;">⬇️ 下载
+                    products.json</button>
+                <button class="btn btn-secondary" id="resetBtn">重新上传</button>
+            </div>
+
+            <details style="margin-top: 2rem; color: #64748b; cursor: pointer;">
+                <summary>查看原始JSON数据 (仅供技术人员调试)</summary>
+                <div class="preview" id="jsonPreview" style="margin-top: 1rem;"></div>
+            </details>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <script>
+        let jsonData = [];
+
+        const uploadArea = document.getElementById('uploadArea');
+        const fileInput = document.getElementById('fileInput');
+        const previewSection = document.getElementById('previewSection');
+        const jsonPreview = document.getElementById('jsonPreview');
+        const tablePreview = document.getElementById('tablePreview');
+        const productCount = document.getElementById('productCount');
+        const downloadBtn = document.getElementById('downloadBtn');
+        const resetBtn = document.getElementById('resetBtn');
+        const downloadTemplate = document.getElementById('downloadTemplate');
+
+        // Upload area click
+        uploadArea.addEventListener('click', () => fileInput.click());
+
+        // Drag and drop
+        uploadArea.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            uploadArea.classList.add('dragover');
+        });
+
+        uploadArea.addEventListener('dragleave', () => {
+            uploadArea.classList.remove('dragover');
+        });
+
+        uploadArea.addEventListener('drop', (e) => {
+            e.preventDefault();
+            uploadArea.classList.remove('dragover');
+            const file = e.dataTransfer.files[0];
+            if (file) processFile(file);
+        });
+
+        // File input change
+        fileInput.addEventListener('change', (e) => {
+            const file = e.target.files[0];
+            if (file) processFile(file);
+        });
+
+        // Process Excel file
+        function processFile(file) {
+            const reader = new FileReader();
+
+            reader.onload = (e) => {
+                const data = new Uint8Array(e.target.result);
+                const workbook = XLSX.read(data, { type: 'array' });
+                const firstSheet = workbook.Sheets[workbook.SheetNames[0]];
+                const rows = XLSX.utils.sheet_to_json(firstSheet);
+
+                jsonData = rows.map(row => {
+                    // Helper to split specs string into array
+                    const splitSpecs = (str) => str ? str.split('\n').map(s => s.trim()).filter(Boolean) : [];
+
+                    return {
+                        id: row['ID'] || '',
+                        model: row['型号'] || '',
+                        category: row['类别(Category)'] || '',
+                        image: row['图片路径(Image)'] || '',
+                        moq: parseInt(row['起订量(MOQ)'] || 1000),
+                        oem: true,
+                        // Multi-language Names
+                        names: {
+                            en: row['名称(英文)'] || row['名称(英文)'] || '',
+                            zh: row['名称(简体)'] || '',
+                            'zh-TW': row['名称(繁体)'] || '',
+                            ja: row['名称(日文)'] || '',
+                            ko: row['名称(韩文)'] || '',
+                            de: row['名称(德文)'] || '',
+                            fr: row['名称(法文)'] || '',
+                            es: row['名称(西文)'] || ''
+                        },
+                        // Multi-language Specs (expecting newline separated strings in Excel)
+                        specs: {
+                            en: splitSpecs(row['规格(英文)']),
+                            zh: splitSpecs(row['规格(简体)']),
+                            'zh-TW': splitSpecs(row['规格(繁体)']),
+                            ja: splitSpecs(row['规格(日文)']),
+                            ko: splitSpecs(row['规格(韩文)']),
+                            de: splitSpecs(row['规格(德文)']),
+                            fr: splitSpecs(row['规格(法文)']),
+                            es: splitSpecs(row['规格(西文)'])
+                        },
+                        // Certifications
+                        certifications: {
+                            ce: !!row['认证-CE'],
+                            fcc: !!row['认证-FCC'],
+                            rohs: !!row['认证-RoHS'],
+                            iso9001: !!row['认证-ISO9001']
+                        }
+                    };
+                });
+
+                displayPreview();
+            };
+
+            reader.readAsArrayBuffer(file);
+        }
+
+        // Display preview
+        function displayPreview() {
+            previewSection.style.display = 'block';
+            productCount.textContent = jsonData.length;
+
+            // Table preview
+            tablePreview.innerHTML = `
+        <table>
+          <thead>
+            <tr>
+              <th>ID</th>
+              <th>简体名称</th>
+              <th>英文名称</th>
+              <th>类别</th>
+              <th>起订量</th>
+              <th>认证</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${jsonData.map(p => `
+              <tr>
+                <td>${p.id}</td>
+                <td>${p.names.zh}</td>
+                <td>${p.names.en}</td>
+                <td><span class="category-badge">${p.category}</span></td>
+                <td>${p.moq}</td>
+                <td>
+                    ${p.certifications.ce ? 'CE ' : ''}
+                    ${p.certifications.fcc ? 'FCC ' : ''}
+                </td>
+              </tr>
+            `).join('')}
+          </tbody>
+        </table>
+      `;
+
+            // JSON preview
+            jsonPreview.innerHTML = `<pre>${JSON.stringify(jsonData, null, 2)}</pre>`;
+
+            previewSection.scrollIntoView({ behavior: 'smooth' });
+        }
+
+        // Download JSON
+        downloadBtn.addEventListener('click', () => {
+            const blob = new Blob([JSON.stringify(jsonData, null, 2)], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'products.json';
+            a.click();
+            URL.revokeObjectURL(url);
+        });
+
+        // Reset
+        resetBtn.addEventListener('click', () => {
+            previewSection.style.display = 'none';
+            fileInput.value = '';
+            jsonData = [];
+        });
+
+        // Download template
+        downloadTemplate.addEventListener('click', () => {
+            const template = [
+                {
+                    'ID': 'humidifier-x1',
+                    '型号': 'X1',
+                    '类别(Category)': 'humidifier',
+                    '图片路径(Image)': '/products/humidifier/X1.jpg',
+                    '起订量(MOQ)': 1000,
+                    '名称(简体)': '喵动力加湿器 X1',
+                    '名称(繁体)': '喵動力加濕器 X1',
+                    '名称(英文)': 'MEWPOW Humidifier X1',
+                    '名称(日文)': 'MEWPOW加湿器 X1',
+                    '名称(韩文)': 'MEWPOW 가습기 X1',
+                    '名称(德文)': 'MEWPOW Luftbefeuchter X1',
+                    '名称(法文)': 'Humidificateur MEWPOW X1',
+                    '名称(西文)': 'Humidificador MEWPOW X1',
+                    '规格(简体)': '颜色: 白色\n4000毫安电池\nABS材质',
+                    '规格(繁体)': '顏色: 白色\n4000毫安電池\nABS材質',
+                    '规格(英文)': 'Color: White\n4000mAh Battery\nABS Material',
+                    '规格(日文)': 'カラー: ホワイト\n4000mAhバッテリー\nABS素材',
+                    '规格(韩文)': '색상: 화이트\n4000mAh 배터리\nABS 소재',
+                    '规格(德文)': 'Farbe: Weiß\n4000mAh Akku\nABS-Material',
+                    '规格(法文)': 'Couleur: Blanc\nBatterie 4000mAh\nMatériau ABS',
+                    '规格(西文)': 'Color: Blanco\nBatería 4000mAh\nMaterial ABS',
+                    '认证-CE': 'TRUE',
+                    '认证-FCC': 'TRUE',
+                    '认证-RoHS': 'TRUE',
+                    '认证-ISO9001': 'TRUE'
+                }
+            ];
+
+            const ws = XLSX.utils.json_to_sheet(template);
+            const wb = XLSX.utils.book_new();
+            XLSX.utils.book_append_sheet(wb, ws, 'Products');
+            XLSX.writeFile(wb, 'product_template_v3.xlsx');
+        });
+    </script>
+</body>
+
+</html>

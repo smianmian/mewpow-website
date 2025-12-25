@@ -1,0 +1,268 @@
+/* Apple-Style Certifications & Quality Badges */
+
+/* Typography - San Francisco Font */
+.certifications-container,
+.cert-badge,
+.eco-badge,
+.innovation-badge,
+.quality-badge,
+.xiaomi-ecosystem-badge,
+.certifications-title {
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Certification Badges Container */
+.certifications-container {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+    margin-top: 16px;
+    padding: 16px 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+/* Base Certification Badge - Apple Style */
+.cert-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    padding: 5px 12px;
+    background: rgba(0, 0, 0, 0.04);
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 6px;
+    font-size: 11px;
+    font-weight: 500;
+    color: #1d1d1f;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    cursor: default;
+}
+
+.cert-badge:hover {
+    background: rgba(0, 0, 0, 0.06);
+    border-color: rgba(0, 0, 0, 0.12);
+    transform: translateY(-1px);
+}
+
+/* CE Certification - Blue */
+.cert-badge.ce {
+    background: #0071e3;
+    border-color: #0071e3;
+    color: white;
+}
+
+.cert-badge.ce:hover {
+    background: #0077ed;
+    border-color: #0077ed;
+}
+
+/* FCC Certification - Green */
+.cert-badge.fcc {
+    background: #30d158;
+    border-color: #30d158;
+    color: white;
+}
+
+.cert-badge.fcc:hover {
+    background: #32d65a;
+    border-color: #32d65a;
+}
+
+/* RoHS Certification - Orange */
+.cert-badge.rohs {
+    background: #ff9500;
+    border-color: #ff9500;
+    color: white;
+}
+
+.cert-badge.rohs:hover {
+    background: #ff9f0a;
+    border-color: #ff9f0a;
+}
+
+/* ISO Certification - Gray */
+.cert-badge.iso {
+    background: #86868b;
+    border-color: #86868b;
+    color: white;
+}
+
+.cert-badge.iso:hover {
+    background: #8e8e93;
+    border-color: #8e8e93;
+}
+
+/* Features Container */
+.features-container {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+    margin-top: 12px;
+}
+
+/* Eco-Friendly Badge */
+.eco-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 14px;
+    background: #30d158;
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: 500;
+    color: white;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.eco-badge:hover {
+    background: #32d65a;
+    transform: translateY(-1px);
+}
+
+/* Innovation Badge */
+.innovation-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 14px;
+    background: #0071e3;
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: 500;
+    color: white;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.innovation-badge:hover {
+    background: #0077ed;
+    transform: translateY(-1px);
+}
+
+/* Quality Control Badge */
+.quality-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 14px;
+    background: #86868b;
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: 500;
+    color: white;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.quality-badge:hover {
+    background: #8e8e93;
+    transform: translateY(-1px);
+}
+
+/* Xiaomi Ecosystem Badge */
+.xiaomi-ecosystem-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 14px;
+    background: #ff9500;
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: 500;
+    color: white;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.xiaomi-ecosystem-badge:hover {
+    background: #ff9f0a;
+    transform: translateY(-1px);
+}
+
+/* Product Card Certifications Section */
+.product-card .certifications-section {
+    margin-top: auto;
+    padding-top: 20px;
+}
+
+/* Certifications Title */
+.certifications-title {
+    font-size: 11px;
+    font-weight: 600;
+    color: #86868b;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .cert-badge {
+        font-size: 10px;
+        padding: 4px 10px;
+    }
+
+    .eco-badge,
+    .innovation-badge,
+    .quality-badge,
+    .xiaomi-ecosystem-badge {
+        font-size: 11px;
+        padding: 5px 12px;
+    }
+}
+
+/* Tooltip */
+.cert-tooltip {
+    position: relative;
+    cursor: help;
+}
+
+.cert-tooltip:hover::after {
+    content: attr(data-cert-info);
+    position: absolute;
+    bottom: calc(100% + 8px);
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 8px 12px;
+    background: #1d1d1f;
+    color: white;
+    font-size: 11px;
+    font-weight: 400;
+    border-radius: 6px;
+    white-space: nowrap;
+    z-index: 1000;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.16);
+}
+
+.cert-tooltip:hover::before {
+    content: "";
+    position: absolute;
+    bottom: calc(100% + 2px);
+    left: 50%;
+    transform: translateX(-50%);
+    border: 6px solid transparent;
+    border-top-color: #1d1d1f;
+}
+
+/* Dark Mode Support */
+@media (prefers-color-scheme: dark) {
+    .certifications-container {
+        border-top-color: rgba(255, 255, 255, 0.1);
+    }
+
+    .cert-badge {
+        background: rgba(255, 255, 255, 0.1);
+        border-color: rgba(255, 255, 255, 0.15);
+        color: #f5f5f7;
+    }
+
+    .cert-badge:hover {
+        background: rgba(255, 255, 255, 0.15);
+        border-color: rgba(255, 255, 255, 0.2);
+    }
+
+    .certifications-title {
+        color: #a1a1a6;
+    }
+}

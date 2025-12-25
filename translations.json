@@ -1,0 +1,994 @@
+{
+  "en": {
+    "nav": {
+      "home": "Home",
+      "products": "Products",
+      "solutions": "ODM/OEM Solutions",
+      "about": "About Us",
+      "contact": "Contact",
+      "quote": "Request Quote"
+    },
+    "hero": {
+      "title": "Premium Small Appliance Manufacturer for Global Brands",
+      "subtitle": "Xiaomi Ecosystem Partner | 10+ Years Experience | 50+ R&D Engineers",
+      "explore": "Explore Products",
+      "quote": "Request a Quote"
+    },
+    "trust": {
+      "experience": "Years Experience",
+      "engineers": "R&D Engineers",
+      "certified": "Certified",
+      "response": "Response Time"
+    },
+    "products": {
+      "title": "Featured Products",
+      "subtitle": "Premium quality appliances with ODM/OEM customization available"
+    },
+    "categories": {
+      "all": "All Products",
+      "humidifier": "Humidifiers",
+      "hairdryer": "Hair Dryers",
+      "heater": "Heaters",
+      "fan": "Fans",
+      "purifier": "Air Purifiers",
+      "toothbrush": "Electric Toothbrushes",
+      "shoedryer": "Shoe Dryers",
+      "mosquito": "Mosquito Lamps",
+      "trimmer": "Fabric Shavers"
+    },
+    "solutions": {
+      "title": "ODM/OEM Solutions",
+      "subtitle": "From concept to mass production - your trusted manufacturing partner",
+      "step1": {
+        "title": "ID Design",
+        "desc": "Industrial design & concept development"
+      },
+      "step2": {
+        "title": "Structure",
+        "desc": "Mechanical engineering & prototyping"
+      },
+      "step3": {
+        "title": "Molding",
+        "desc": "Precision mold making & testing"
+      },
+      "step4": {
+        "title": "Mass Production",
+        "desc": "Quality control & delivery"
+      },
+      "custom": {
+        "title": "Customization Options",
+        "logo": "Logo Customization",
+        "packaging": "Custom Packaging",
+        "color": "Color Options",
+        "function": "Function Customization"
+      }
+    },
+    "about": {
+      "title": "About MEWPOW",
+      "desc1": "As a trusted partner in the Xiaomi ecosystem, we specialize in designing and manufacturing premium small appliances for global brands.",
+      "desc2": "With over 10 years of experience and a team of 50+ R&D engineers, we deliver innovative solutions from concept to mass production.",
+      "certs": "Certifications"
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "subtitle": "Request a quote or download our latest catalog",
+      "info": {
+        "title": "Contact Information",
+        "email": "Email",
+        "whatsapp": "WhatsApp",
+        "address": "Address",
+        "addressDetail": "Jiejia Kindergarten No.3, Shecu Village, Jinggang Street, Rongcheng District, Jieyang City, Guangdong Province, China"
+      },
+      "catalog": {
+        "title": "Download Catalog",
+        "desc": "Get our 2025 latest product catalog & price list",
+        "button": "Download PDF"
+      }
+    },
+    "form": {
+      "name": "Name *",
+      "email": "Email *",
+      "company": "Company *",
+      "country": "Country *",
+      "products": "Products of Interest",
+      "message": "Message *",
+      "submit": "Send Inquiry"
+    },
+    "footer": {
+      "company": "Company",
+      "about": "About Us",
+      "factory": "Factory Tour",
+      "certificates": "Certificates",
+      "products": "Products",
+      "services": "Services",
+      "odm": "ODM Solutions",
+      "oem": "OEM Solutions",
+      "customization": "Customization",
+      "follow": "Follow Us"
+    },
+    "product": {
+      "moq": "MOQ",
+      "pcs": "pcs",
+      "addToInquiry": "Add to Inquiry",
+      "oem": "OEM/ODM Available"
+    },
+    "certifications": {
+      "title": "Certifications & Quality",
+      "ce": "CE Certified",
+      "fcc": "FCC Certified",
+      "rohs": "RoHS Compliant",
+      "iso": "ISO 9001:2015",
+      "eco": "Eco-Friendly",
+      "innovation": "Innovative R&D",
+      "quality": "Strict Quality Control"
+    }
+  },
+  "zh": {
+    "nav": {
+      "home": "首页",
+      "products": "产品中心",
+      "solutions": "ODM/OEM方案",
+      "about": "关于我们",
+      "contact": "联系我们",
+      "quote": "获取报价"
+    },
+    "hero": {
+      "title": "全球品牌的高端小家电制造商",
+      "subtitle": "小米生态链伙伴 | 10年+经验 | 50+研发工程师",
+      "explore": "浏览产品",
+      "quote": "获取报价"
+    },
+    "trust": {
+      "experience": "年经验",
+      "engineers": "研发工程师",
+      "certified": "认证",
+      "response": "响应时间"
+    },
+    "products": {
+      "title": "精选产品",
+      "subtitle": "高品质家电，支持ODM/OEM定制"
+    },
+    "categories": {
+      "all": "全部产品",
+      "humidifier": "加湿器",
+      "hairdryer": "吹风机",
+      "heater": "取暖器",
+      "fan": "风扇",
+      "purifier": "空气净化器",
+      "toothbrush": "电动牙具",
+      "shoedryer": "烘鞋器",
+      "mosquito": "灭蚊灯",
+      "trimmer": "毛球修剪器"
+    },
+    "solutions": {
+      "title": "ODM/OEM解决方案",
+      "subtitle": "从概念到量产 - 您值得信赖的制造合作伙伴",
+      "step1": {
+        "title": "工业设计",
+        "desc": "外观设计与概念开发"
+      },
+      "step2": {
+        "title": "结构设计",
+        "desc": "机械工程与原型制作"
+      },
+      "step3": {
+        "title": "开模制造",
+        "desc": "精密模具制作与测试"
+      },
+      "step4": {
+        "title": "批量生产",
+        "desc": "质量控制与交付"
+      },
+      "custom": {
+        "title": "定制选项",
+        "logo": "Logo定制",
+        "packaging": "包装定制",
+        "color": "颜色定制",
+        "function": "功能定制"
+      }
+    },
+    "about": {
+      "title": "关于喵动力",
+      "desc1": "作为小米生态链的可信赖合作伙伴，我们专注于为全球品牌设计和制造高端小家电。",
+      "desc2": "拥有超过10年的经验和50多名研发工程师团队，我们从概念到量产提供创新解决方案。",
+      "certs": "资质认证"
+    },
+    "contact": {
+      "title": "联系我们",
+      "subtitle": "获取报价或下载最新产品目录",
+      "info": {
+        "title": "联系方式",
+        "email": "邮箱",
+        "whatsapp": "WhatsApp",
+        "address": "地址",
+        "addressDetail": "中国广东省揭阳市榕城区京冈街道佘厝村佳佳幼儿园第三间"
+      },
+      "catalog": {
+        "title": "下载产品目录",
+        "desc": "获取2025年最新产品目录和价格表",
+        "button": "下载PDF"
+      }
+    },
+    "form": {
+      "name": "姓名 *",
+      "email": "邮箱 *",
+      "company": "公司 *",
+      "country": "国家 *",
+      "products": "感兴趣的产品",
+      "message": "留言 *",
+      "submit": "发送询盘"
+    },
+    "footer": {
+      "company": "公司",
+      "about": "关于我们",
+      "factory": "工厂参观",
+      "certificates": "资质证书",
+      "products": "产品",
+      "services": "服务",
+      "odm": "ODM方案",
+      "oem": "OEM方案",
+      "customization": "定制服务",
+      "follow": "关注我们"
+    },
+    "product": {
+      "moq": "起订量",
+      "pcs": "件",
+      "addToInquiry": "加入询价",
+      "oem": "支持OEM/ODM"
+    },
+    "certifications": {
+      "title": "认证与质量",
+      "ce": "CE认证",
+      "fcc": "FCC认证",
+      "rohs": "RoHS合规",
+      "iso": "ISO 9001:2015",
+      "eco": "环保产品",
+      "innovation": "创新研发",
+      "quality": "严格质量控制"
+    }
+  },
+  "es": {
+    "nav": {
+      "home": "Inicio",
+      "products": "Productos",
+      "solutions": "Soluciones ODM/OEM",
+      "about": "Sobre Nosotros",
+      "contact": "Contacto",
+      "quote": "Solicitar Cotización"
+    },
+    "hero": {
+      "title": "Fabricante Premium de Electrodomésticos para Marcas Globales",
+      "subtitle": "Socio del Ecosistema Xiaomi | Más de 10 Años de Experiencia | Más de 50 Ingenieros de I+D",
+      "explore": "Explorar Productos",
+      "quote": "Solicitar Cotización"
+    },
+    "trust": {
+      "experience": "Años de Experiencia",
+      "engineers": "Ingenieros de I+D",
+      "certified": "Certificado",
+      "response": "Tiempo de Respuesta"
+    },
+    "products": {
+      "title": "Productos Destacados",
+      "subtitle": "Electrodomésticos de calidad premium con personalización ODM/OEM disponible"
+    },
+    "categories": {
+      "all": "Todos los Productos",
+      "humidifier": "Humidificadores",
+      "hairdryer": "Secadores de Pelo",
+      "heater": "Calentadores",
+      "fan": "Ventiladores",
+      "purifier": "Purificadores de Aire",
+      "toothbrush": "Cepillos Eléctricos",
+      "shoedryer": "Secadores de Zapatos",
+      "mosquito": "Lámparas Antimosquitos",
+      "trimmer": "Quitapelusas"
+    },
+    "solutions": {
+      "title": "Soluciones ODM/OEM",
+      "subtitle": "Del concepto a la producción en masa - su socio de fabricación de confianza",
+      "step1": {
+        "title": "Diseño Industrial",
+        "desc": "Diseño industrial y desarrollo de conceptos"
+      },
+      "step2": {
+        "title": "Estructura",
+        "desc": "Ingeniería mecánica y prototipos"
+      },
+      "step3": {
+        "title": "Moldeo",
+        "desc": "Fabricación de moldes de precisión y pruebas"
+      },
+      "step4": {
+        "title": "Producción en Masa",
+        "desc": "Control de calidad y entrega"
+      },
+      "custom": {
+        "title": "Opciones de Personalización",
+        "logo": "Personalización de Logo",
+        "packaging": "Empaque Personalizado",
+        "color": "Opciones de Color",
+        "function": "Personalización de Funciones"
+      }
+    },
+    "about": {
+      "title": "Sobre MEWPOW",
+      "desc1": "Como socio de confianza en el ecosistema Xiaomi, nos especializamos en diseñar y fabricar electrodomésticos premium para marcas globales.",
+      "desc2": "Con más de 10 años de experiencia y un equipo de más de 50 ingenieros de I+D, ofrecemos soluciones innovadoras desde el concepto hasta la producción en masa.",
+      "certs": "Certificaciones"
+    },
+    "contact": {
+      "title": "Contáctenos",
+      "subtitle": "Solicite una cotización o descargue nuestro último catálogo",
+      "info": {
+        "title": "Información de Contacto",
+        "email": "Correo Electrónico",
+        "whatsapp": "WhatsApp",
+        "address": "Dirección",
+        "addressDetail": "Jardín de Infancia Jiejia No.3, Aldea Shecu, Calle Jinggang, Distrito Rongcheng, Ciudad Jieyang, Provincia Guangdong, China"
+      },
+      "catalog": {
+        "title": "Descargar Catálogo",
+        "desc": "Obtenga nuestro catálogo de productos y lista de precios 2025",
+        "button": "Descargar PDF"
+      }
+    },
+    "form": {
+      "name": "Nombre *",
+      "email": "Correo Electrónico *",
+      "company": "Empresa *",
+      "country": "País *",
+      "products": "Productos de Interés",
+      "message": "Mensaje *",
+      "submit": "Enviar Consulta"
+    },
+    "footer": {
+      "company": "Empresa",
+      "about": "Sobre Nosotros",
+      "factory": "Tour de Fábrica",
+      "certificates": "Certificados",
+      "products": "Productos",
+      "services": "Servicios",
+      "odm": "Soluciones ODM",
+      "oem": "Soluciones OEM",
+      "customization": "Personalización",
+      "follow": "Síguenos"
+    },
+    "product": {
+      "moq": "MOQ",
+      "pcs": "pzs",
+      "addToInquiry": "Agregar a Consulta",
+      "oem": "OEM/ODM Disponible"
+    },
+    "certifications": {
+      "title": "Certificaciones y Calidad",
+      "ce": "Certificado CE",
+      "fcc": "Certificado FCC",
+      "rohs": "Cumple con RoHS",
+      "iso": "ISO 9001:2015",
+      "eco": "Ecológico",
+      "innovation": "I+D Innovadora",
+      "quality": "Control de Calidad Estricto"
+    }
+  },
+  "de": {
+    "nav": {
+      "home": "Startseite",
+      "products": "Produkte",
+      "solutions": "ODM/OEM Lösungen",
+      "about": "Über Uns",
+      "contact": "Kontakt",
+      "quote": "Angebot Anfordern"
+    },
+    "hero": {
+      "title": "Premium Hausgerätehersteller für Globale Marken",
+      "subtitle": "Xiaomi Ökosystem Partner | Über 10 Jahre Erfahrung | Über 50 F&E Ingenieure",
+      "explore": "Produkte Erkunden",
+      "quote": "Angebot Anfordern"
+    },
+    "trust": {
+      "experience": "Jahre Erfahrung",
+      "engineers": "F&E Ingenieure",
+      "certified": "Zertifiziert",
+      "response": "Antwortzeit"
+    },
+    "products": {
+      "title": "Ausgewählte Produkte",
+      "subtitle": "Premium-Qualitätsgeräte mit ODM/OEM-Anpassung verfügbar"
+    },
+    "categories": {
+      "all": "Alle Produkte",
+      "humidifier": "Luftbefeuchter",
+      "hairdryer": "Haartrockner",
+      "heater": "Heizgeräte",
+      "fan": "Ventilatoren",
+      "purifier": "Luftreiniger",
+      "toothbrush": "Elektrische Zahnbürsten",
+      "shoedryer": "Schuhtrockner",
+      "mosquito": "Mückenlampen",
+      "trimmer": "Fusselrasierer"
+    },
+    "solutions": {
+      "title": "ODM/OEM Lösungen",
+      "subtitle": "Vom Konzept zur Massenproduktion - Ihr vertrauenswürdiger Fertigungspartner",
+      "step1": {
+        "title": "Industriedesign",
+        "desc": "Industriedesign & Konzeptentwicklung"
+      },
+      "step2": {
+        "title": "Struktur",
+        "desc": "Maschinenbau & Prototyping"
+      },
+      "step3": {
+        "title": "Formenbau",
+        "desc": "Präzisions-Formenbau & Tests"
+      },
+      "step4": {
+        "title": "Massenproduktion",
+        "desc": "Qualitätskontrolle & Lieferung"
+      },
+      "custom": {
+        "title": "Anpassungsoptionen",
+        "logo": "Logo-Anpassung",
+        "packaging": "Individuelle Verpackung",
+        "color": "Farboptionen",
+        "function": "Funktionsanpassung"
+      }
+    },
+    "about": {
+      "title": "Über MEWPOW",
+      "desc1": "Als vertrauenswürdiger Partner im Xiaomi-Ökosystem sind wir auf die Entwicklung und Herstellung von Premium-Haushaltsgeräten für globale Marken spezialisiert.",
+      "desc2": "Mit über 10 Jahren Erfahrung und einem Team von über 50 F&E-Ingenieuren liefern wir innovative Lösungen vom Konzept bis zur Massenproduktion.",
+      "certs": "Zertifizierungen"
+    },
+    "contact": {
+      "title": "Kontaktieren Sie Uns",
+      "subtitle": "Fordern Sie ein Angebot an oder laden Sie unseren neuesten Katalog herunter",
+      "info": {
+        "title": "Kontaktinformationen",
+        "email": "E-Mail",
+        "whatsapp": "WhatsApp",
+        "address": "Adresse",
+        "addressDetail": "Jiejia Kindergarten Nr.3, Shecu Dorf, Jinggang Straße, Rongcheng Bezirk, Jieyang Stadt, Guangdong Provinz, China"
+      },
+      "catalog": {
+        "title": "Katalog Herunterladen",
+        "desc": "Erhalten Sie unseren neuesten Produktkatalog und Preisliste 2025",
+        "button": "PDF Herunterladen"
+      }
+    },
+    "form": {
+      "name": "Name *",
+      "email": "E-Mail *",
+      "company": "Firma *",
+      "country": "Land *",
+      "products": "Interessierte Produkte",
+      "message": "Nachricht *",
+      "submit": "Anfrage Senden"
+    },
+    "footer": {
+      "company": "Unternehmen",
+      "about": "Über Uns",
+      "factory": "Werksbesichtigung",
+      "certificates": "Zertifikate",
+      "products": "Produkte",
+      "services": "Dienstleistungen",
+      "odm": "ODM Lösungen",
+      "oem": "OEM Lösungen",
+      "customization": "Anpassung",
+      "follow": "Folgen Sie Uns"
+    },
+    "product": {
+      "moq": "MOQ",
+      "pcs": "Stk",
+      "addToInquiry": "Zur Anfrage Hinzufügen",
+      "oem": "OEM/ODM Verfügbar"
+    },
+    "certifications": {
+      "title": "Zertifizierungen & Qualität",
+      "ce": "CE-Zertifiziert",
+      "fcc": "FCC-Zertifiziert",
+      "rohs": "RoHS-Konform",
+      "iso": "ISO 9001:2015",
+      "eco": "Umweltfreundlich",
+      "innovation": "Innovative F&E",
+      "quality": "Strenge Qualitätskontrolle"
+    }
+  },
+  "ja": {
+    "nav": {
+      "home": "ホーム",
+      "products": "製品",
+      "solutions": "ODM/OEMソリューション",
+      "about": "会社概要",
+      "contact": "お問い合わせ",
+      "quote": "見積もり依頼"
+    },
+    "hero": {
+      "title": "グローバルブランド向けプレミアム小型家電メーカー",
+      "subtitle": "Xiaomiエコシステムパートナー | 10年以上の経験 | 50名以上のR&Dエンジニア",
+      "explore": "製品を見る",
+      "quote": "見積もり依頼"
+    },
+    "trust": {
+      "experience": "年の経験",
+      "engineers": "R&Dエンジニア",
+      "certified": "認証取得済み",
+      "response": "応答時間"
+    },
+    "products": {
+      "title": "注目製品",
+      "subtitle": "ODM/OEMカスタマイズ可能なプレミアム品質の家電製品"
+    },
+    "categories": {
+      "all": "すべての製品",
+      "humidifier": "加湿器",
+      "hairdryer": "ヘアドライヤー",
+      "heater": "ヒーター",
+      "fan": "扇風機",
+      "purifier": "空気清浄機",
+      "toothbrush": "電動歯ブラシ",
+      "shoedryer": "靴乾燥機",
+      "mosquito": "蚊取りランプ",
+      "trimmer": "毛玉取り器"
+    },
+    "solutions": {
+      "title": "ODM/OEMソリューション",
+      "subtitle": "コンセプトから量産まで - 信頼できる製造パートナー",
+      "step1": {
+        "title": "工業デザイン",
+        "desc": "工業デザイン＆コンセプト開発"
+      },
+      "step2": {
+        "title": "構造設計",
+        "desc": "機械工学＆プロトタイピング"
+      },
+      "step3": {
+        "title": "金型製作",
+        "desc": "精密金型製作＆テスト"
+      },
+      "step4": {
+        "title": "量産",
+        "desc": "品質管理＆納品"
+      },
+      "custom": {
+        "title": "カスタマイズオプション",
+        "logo": "ロゴカスタマイズ",
+        "packaging": "カスタムパッケージ",
+        "color": "カラーオプション",
+        "function": "機能カスタマイズ"
+      }
+    },
+    "about": {
+      "title": "MEWPOWについて",
+      "desc1": "Xiaomiエコシステムの信頼できるパートナーとして、グローバルブランド向けのプレミアム小型家電の設計・製造を専門としています。",
+      "desc2": "10年以上の経験と50名以上のR&Dエンジニアチームにより、コンセプトから量産まで革新的なソリューションを提供します。",
+      "certs": "認証"
+    },
+    "contact": {
+      "title": "お問い合わせ",
+      "subtitle": "見積もり依頼または最新カタログのダウンロード",
+      "info": {
+        "title": "連絡先情報",
+        "email": "メール",
+        "whatsapp": "WhatsApp",
+        "address": "住所",
+        "addressDetail": "中国広東省掲陽市榕城区京岡街道佘厝村佳佳幼稚園第三棟"
+      },
+      "catalog": {
+        "title": "カタログダウンロード",
+        "desc": "2025年最新製品カタログ＆価格表を入手",
+        "button": "PDFダウンロード"
+      }
+    },
+    "form": {
+      "name": "お名前 *",
+      "email": "メールアドレス *",
+      "company": "会社名 *",
+      "country": "国 *",
+      "products": "興味のある製品",
+      "message": "メッセージ *",
+      "submit": "お問い合わせ送信"
+    },
+    "footer": {
+      "company": "会社",
+      "about": "会社概要",
+      "factory": "工場見学",
+      "certificates": "認証",
+      "products": "製品",
+      "services": "サービス",
+      "odm": "ODMソリューション",
+      "oem": "OEMソリューション",
+      "customization": "カスタマイズ",
+      "follow": "フォローする"
+    },
+    "product": {
+      "moq": "最小注文数",
+      "pcs": "個",
+      "addToInquiry": "見積もりに追加",
+      "oem": "OEM/ODM対応可能"
+    },
+    "certifications": {
+      "title": "認証と品質",
+      "ce": "CE認証取得",
+      "fcc": "FCC認証取得",
+      "rohs": "RoHS準拠",
+      "iso": "ISO 9001:2015",
+      "eco": "環境に優しい",
+      "innovation": "革新的なR&D",
+      "quality": "厳格な品質管理"
+    }
+  },
+  "fr": {
+    "nav": {
+      "home": "Accueil",
+      "products": "Produits",
+      "solutions": "Solutions ODM/OEM",
+      "about": "À Propos",
+      "contact": "Contact",
+      "quote": "Demander un Devis"
+    },
+    "hero": {
+      "title": "Fabricant Premium d'Appareils Électroménagers pour Marques Mondiales",
+      "subtitle": "Partenaire de l'Écosystème Xiaomi | Plus de 10 Ans d'Expérience | Plus de 50 Ingénieurs R&D",
+      "explore": "Découvrir les Produits",
+      "quote": "Demander un Devis"
+    },
+    "trust": {
+      "experience": "Années d'Expérience",
+      "engineers": "Ingénieurs R&D",
+      "certified": "Certifié",
+      "response": "Temps de Réponse"
+    },
+    "products": {
+      "title": "Produits Vedettes",
+      "subtitle": "Appareils de qualité premium avec personnalisation ODM/OEM disponible"
+    },
+    "categories": {
+      "all": "Tous les Produits",
+      "humidifier": "Humidificateurs",
+      "hairdryer": "Sèche-Cheveux",
+      "heater": "Chauffages",
+      "fan": "Ventilateurs",
+      "purifier": "Purificateurs d'Air",
+      "toothbrush": "Brosses à Dents Électriques",
+      "shoedryer": "Sèche-Chaussures",
+      "mosquito": "Lampes Anti-Moustiques",
+      "trimmer": "Anti-Bouloches"
+    },
+    "solutions": {
+      "title": "Solutions ODM/OEM",
+      "subtitle": "Du concept à la production de masse - votre partenaire de fabrication de confiance",
+      "step1": {
+        "title": "Design Industriel",
+        "desc": "Design industriel & développement de concept"
+      },
+      "step2": {
+        "title": "Structure",
+        "desc": "Ingénierie mécanique & prototypage"
+      },
+      "step3": {
+        "title": "Moulage",
+        "desc": "Fabrication de moules de précision & tests"
+      },
+      "step4": {
+        "title": "Production de Masse",
+        "desc": "Contrôle qualité & livraison"
+      },
+      "custom": {
+        "title": "Options de Personnalisation",
+        "logo": "Personnalisation du Logo",
+        "packaging": "Emballage Personnalisé",
+        "color": "Options de Couleur",
+        "function": "Personnalisation des Fonctions"
+      }
+    },
+    "about": {
+      "title": "À Propos de MEWPOW",
+      "desc1": "En tant que partenaire de confiance dans l'écosystème Xiaomi, nous sommes spécialisés dans la conception et la fabrication d'appareils électroménagers premium pour les marques mondiales.",
+      "desc2": "Avec plus de 10 ans d'expérience et une équipe de plus de 50 ingénieurs R&D, nous offrons des solutions innovantes du concept à la production de masse.",
+      "certs": "Certifications"
+    },
+    "contact": {
+      "title": "Contactez-Nous",
+      "subtitle": "Demandez un devis ou téléchargez notre dernier catalogue",
+      "info": {
+        "title": "Informations de Contact",
+        "email": "E-mail",
+        "whatsapp": "WhatsApp",
+        "address": "Adresse",
+        "addressDetail": "Jardin d'Enfants Jiejia No.3, Village Shecu, Rue Jinggang, District Rongcheng, Ville Jieyang, Province Guangdong, Chine"
+      },
+      "catalog": {
+        "title": "Télécharger le Catalogue",
+        "desc": "Obtenez notre catalogue de produits et liste de prix 2025",
+        "button": "Télécharger PDF"
+      }
+    },
+    "form": {
+      "name": "Nom *",
+      "email": "E-mail *",
+      "company": "Entreprise *",
+      "country": "Pays *",
+      "products": "Produits d'Intérêt",
+      "message": "Message *",
+      "submit": "Envoyer la Demande"
+    },
+    "footer": {
+      "company": "Entreprise",
+      "about": "À Propos",
+      "factory": "Visite d'Usine",
+      "certificates": "Certificats",
+      "products": "Produits",
+      "services": "Services",
+      "odm": "Solutions ODM",
+      "oem": "Solutions OEM",
+      "customization": "Personnalisation",
+      "follow": "Suivez-Nous"
+    },
+    "product": {
+      "moq": "MOQ",
+      "pcs": "pcs",
+      "addToInquiry": "Ajouter à la Demande",
+      "oem": "OEM/ODM Disponible"
+    },
+    "certifications": {
+      "title": "Certifications et Qualité",
+      "ce": "Certifié CE",
+      "fcc": "Certifié FCC",
+      "rohs": "Conforme RoHS",
+      "iso": "ISO 9001:2015",
+      "eco": "Écologique",
+      "innovation": "R&D Innovante",
+      "quality": "Contrôle Qualité Rigoureux"
+    }
+  },
+  "ko": {
+    "nav": {
+      "home": "홈",
+      "products": "제품",
+      "solutions": "ODM/OEM 솔루션",
+      "about": "회사 소개",
+      "contact": "연락처",
+      "quote": "견적 요청"
+    },
+    "hero": {
+      "title": "글로벌 브랜드를 위한 프리미엄 소형 가전 제조업체",
+      "subtitle": "샤오미 생태계 파트너 | 10년 이상의 경험 | 50명 이상의 R&D 엔지니어",
+      "explore": "제품 탐색",
+      "quote": "견적 요청"
+    },
+    "trust": {
+      "experience": "년 경험",
+      "engineers": "R&D 엔지니어",
+      "certified": "인증",
+      "response": "응답 시간"
+    },
+    "products": {
+      "title": "추천 제품",
+      "subtitle": "ODM/OEM 맞춤화가 가능한 프리미엄 품질의 가전제품"
+    },
+    "categories": {
+      "all": "모든 제품",
+      "humidifier": "가습기",
+      "hairdryer": "헤어 드라이어",
+      "heater": "히터",
+      "fan": "선풍기",
+      "purifier": "공기 청정기",
+      "toothbrush": "전동 칫솔",
+      "shoedryer": "신발 건조기",
+      "mosquito": "모기 램프",
+      "trimmer": "보풀 제거기"
+    },
+    "solutions": {
+      "title": "ODM/OEM 솔루션",
+      "subtitle": "컨셉에서 대량 생산까지 - 신뢰할 수 있는 제조 파트너",
+      "step1": {
+        "title": "산업 디자인",
+        "desc": "산업 디자인 & 컨셉 개발"
+      },
+      "step2": {
+        "title": "구조 설계",
+        "desc": "기계 공학 & 프로토타이핑"
+      },
+      "step3": {
+        "title": "금형 제작",
+        "desc": "정밀 금형 제작 & 테스트"
+      },
+      "step4": {
+        "title": "대량 생산",
+        "desc": "품질 관리 & 배송"
+      },
+      "custom": {
+        "title": "맞춤형 옵션",
+        "logo": "로고 맞춤화",
+        "packaging": "맞춤형 포장",
+        "color": "색상 옵션",
+        "function": "기능 맞춤화"
+      }
+    },
+    "about": {
+      "title": "MEWPOW 소개",
+      "desc1": "샤오미 생태계의 신뢰할 수 있는 파트너로서 글로벌 브랜드를 위한 프리미엄 소형 가전제품을 설계하고 제조하는 것을 전문으로 합니다.",
+      "desc2": "10년 이상의 경험과 50명 이상의 R&D 엔지니어 팀을 통해 컨셉에서 대량 생산까지 혁신적인 솔루션을 제공합니다.",
+      "certs": "인증"
+    },
+    "contact": {
+      "title": "연락하기",
+      "subtitle": "견적 요청 또는 최신 카탈로그 다운로드",
+      "info": {
+        "title": "연락처 정보",
+        "email": "이메일",
+        "whatsapp": "WhatsApp",
+        "address": "주소",
+        "addressDetail": "중국 광동성 揭阳시 榕城구 京岗街道 佘厝村 佳佳幼儿园 제3동"
+      },
+      "catalog": {
+        "title": "카탈로그 다운로드",
+        "desc": "2025년 최신 제품 카탈로그 & 가격표 받기",
+        "button": "PDF 다운로드"
+      }
+    },
+    "form": {
+      "name": "이름 *",
+      "email": "이메일 *",
+      "company": "회사 *",
+      "country": "국가 *",
+      "products": "관심 제품",
+      "message": "메시지 *",
+      "submit": "문의 보내기"
+    },
+    "footer": {
+      "company": "회사",
+      "about": "회사 소개",
+      "factory": "공장 견학",
+      "certificates": "인증서",
+      "products": "제품",
+      "services": "서비스",
+      "odm": "ODM 솔루션",
+      "oem": "OEM 솔루션",
+      "customization": "맞춤화",
+      "follow": "팔로우"
+    },
+    "product": {
+      "moq": "MOQ",
+      "pcs": "개",
+      "addToInquiry": "문의에 추가",
+      "oem": "OEM/ODM 가능"
+    },
+    "certifications": {
+      "title": "인증 및 품질",
+      "ce": "CE 인증",
+      "fcc": "FCC 인증",
+      "rohs": "RoHS 준수",
+      "iso": "ISO 9001:2015",
+      "eco": "친환경",
+      "innovation": "혁신적인 R&D",
+      "quality": "엄격한 품질 관리"
+    }
+  },
+  "zh-TW": {
+    "nav": {
+      "home": "首頁",
+      "products": "產品中心",
+      "solutions": "ODM/OEM方案",
+      "about": "關於我們",
+      "contact": "聯絡我們",
+      "quote": "獲取報價"
+    },
+    "hero": {
+      "title": "全球品牌的高端小家電製造商",
+      "subtitle": "小米生態鏈夥伴 | 10年+經驗 | 50+研發工程師",
+      "explore": "瀏覽產品",
+      "quote": "獲取報價"
+    },
+    "trust": {
+      "experience": "年經驗",
+      "engineers": "研發工程師",
+      "certified": "認證",
+      "response": "響應時間"
+    },
+    "products": {
+      "title": "精選產品",
+      "subtitle": "高品質家電，支持ODM/OEM定制"
+    },
+    "categories": {
+      "all": "全部產品",
+      "humidifier": "加濕器",
+      "hairdryer": "吹風機",
+      "heater": "取暖器",
+      "fan": "風扇",
+      "purifier": "空氣淨化器",
+      "toothbrush": "電動牙刷",
+      "shoedryer": "烘鞋器",
+      "mosquito": "滅蚊燈",
+      "trimmer": "毛球修剪器"
+    },
+    "solutions": {
+      "title": "ODM/OEM解決方案",
+      "subtitle": "從概念到量產 - 您值得信賴的製造合作夥伴",
+      "step1": {
+        "title": "工業設計",
+        "desc": "外觀設計與概念開發"
+      },
+      "step2": {
+        "title": "結構設計",
+        "desc": "機械工程與原型製作"
+      },
+      "step3": {
+        "title": "開模製造",
+        "desc": "精密模具製作與測試"
+      },
+      "step4": {
+        "title": "批量生產",
+        "desc": "質量控制與交付"
+      },
+      "custom": {
+        "title": "定制選項",
+        "logo": "Logo定制",
+        "packaging": "包裝定制",
+        "color": "顏色定制",
+        "function": "功能定制"
+      }
+    },
+    "about": {
+      "title": "關於喵動力",
+      "desc1": "作為小米生態鏈的可信賴合作夥伴，我們專注於為全球品牌設計和製造高端小家電。",
+      "desc2": "擁有超過10年的經驗和50多名研發工程師團隊，我們從概念到量產提供創新解決方案。",
+      "certs": "資質認證"
+    },
+    "contact": {
+      "title": "聯絡我們",
+      "subtitle": "獲取報價或下載最新產品目錄",
+      "info": {
+        "title": "聯絡方式",
+        "email": "郵箱",
+        "whatsapp": "WhatsApp",
+        "address": "地址",
+        "addressDetail": "中國廣東省揭陽市榕城區京岡街道佘厝村佳佳幼兒園第三間"
+      },
+      "catalog": {
+        "title": "下載產品目錄",
+        "desc": "獲取2025年最新產品目錄和價格表",
+        "button": "下載PDF"
+      }
+    },
+    "form": {
+      "name": "姓名 *",
+      "email": "郵箱 *",
+      "company": "公司 *",
+      "country": "國家 *",
+      "products": "感興趣的產品",
+      "message": "留言 *",
+      "submit": "發送詢盤"
+    },
+    "footer": {
+      "company": "公司",
+      "about": "關於我們",
+      "factory": "工廠參觀",
+      "certificates": "資質證書",
+      "products": "產品",
+      "services": "服務",
+      "odm": "ODM方案",
+      "oem": "OEM方案",
+      "customization": "定制服務",
+      "follow": "關注我們"
+    },
+    "product": {
+      "moq": "起訂量",
+      "pcs": "件",
+      "addToInquiry": "加入詢價",
+      "oem": "支持OEM/ODM"
+    },
+    "certifications": {
+      "title": "認證與質量",
+      "ce": "CE認證",
+      "fcc": "FCC認證",
+      "rohs": "RoHS合規",
+      "iso": "ISO 9001:2015",
+      "eco": "環保產品",
+      "innovation": "創新研發",
+      "quality": "嚴格質量控制"
+    }
+  }
+}

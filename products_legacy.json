@@ -1,0 +1,2193 @@
+[
+  {
+    "id": "humidifier-x1",
+    "name": "喵动力加湿器(充电) X1",
+    "category": "humidifier",
+    "image": "/products/humidifier/X1.jpg",
+    "moq": 40,
+    "specs": [
+      "Colors: 白色",
+      "充电款",
+      "4000毫安"
+    ],
+    "oem": true
+  },
+  {
+    "id": "humidifier-x3",
+    "name": "X3 Smart Humidifier",
+    "category": "humidifier",
+    "image": "/products/humidifier/X3.jpg",
+    "moq": 1000,
+    "specs": [
+      "5L Capacity",
+      "WiFi Enabled",
+      "App Control"
+    ],
+    "oem": true
+  },
+  {
+    "id": "humidifier-x5",
+    "name": "X5 Premium Humidifier",
+    "category": "humidifier",
+    "image": "/products/humidifier/X5.jpg",
+    "moq": 1000,
+    "specs": [
+      "6L Capacity",
+      "UV Sterilization",
+      "Touch Screen"
+    ],
+    "oem": true
+  },
+  {
+    "id": "humidifier-x6",
+    "name": "X6 Aroma Diffuser",
+    "category": "humidifier",
+    "image": "/products/humidifier/X6.jpg",
+    "moq": 1000,
+    "specs": [
+      "3L Capacity",
+      "Aromatherapy",
+      "LED Light"
+    ],
+    "oem": true
+  },
+  {
+    "id": "humidifier-x8",
+    "name": "X8 Desktop Humidifier",
+    "category": "humidifier",
+    "image": "/products/humidifier/X8.jpg",
+    "moq": 1000,
+    "specs": [
+      "2L Capacity",
+      "USB Powered",
+      "Portable"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-a6",
+    "name": "A6 Professional Hair Dryer",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/A6.jpg",
+    "moq": 1000,
+    "specs": [
+      "2000W",
+      "Ionic Technology",
+      "3 Heat Settings"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-f3",
+    "name": "F3 Compact Hair Dryer",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/F3.jpg",
+    "moq": 1000,
+    "specs": [
+      "1800W",
+      "Foldable",
+      "Lightweight"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-f4",
+    "name": "F4 Travel Hair Dryer",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/F4.jpg",
+    "moq": 1000,
+    "specs": [
+      "1600W",
+      "Dual Voltage",
+      "Compact Design"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-pro13",
+    "name": "国标高速吹风机 Pro 13",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/PRO13.jpg",
+    "moq": 30,
+    "specs": [
+      "Colors: 橙红色、浅蓝色",
+      "无刷电机",
+      "ABS",
+      "2400w"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-spaceman",
+    "name": "Spaceman Heater",
+    "category": "heater",
+    "image": "/products/heater/太空人.jpg",
+    "moq": 1000,
+    "specs": [
+      "2000W",
+      "PTC Ceramic",
+      "Cute Design"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-catpaw",
+    "name": "Cat Paw Heater",
+    "category": "heater",
+    "image": "/products/heater/猫爪.jpg",
+    "moq": 1000,
+    "specs": [
+      "1500W",
+      "Portable",
+      "Safety Protection"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-duck",
+    "name": "Duck Heater",
+    "category": "heater",
+    "image": "/products/heater/萌鸭.jpg",
+    "moq": 1000,
+    "specs": [
+      "1800W",
+      "Oscillating",
+      "Timer Function"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-x7",
+    "name": "X7 Tower Heater",
+    "category": "heater",
+    "image": "/products/heater/X7.jpg",
+    "moq": 1000,
+    "specs": [
+      "2200W",
+      "Remote Control",
+      "Digital Display"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-f1",
+    "name": "F1 Tower Fan",
+    "category": "fan",
+    "image": "/products/fan/F1.jpg",
+    "moq": 1000,
+    "specs": [
+      "DC Motor",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-f2",
+    "name": "F2 Desk Fan",
+    "category": "fan",
+    "image": "/products/fan/F2.jpg",
+    "moq": 1000,
+    "specs": [
+      "USB Powered",
+      "360° Rotation",
+      "Quiet Operation"
+    ],
+    "oem": true
+  },
+  {
+    "id": "purifier-k3",
+    "name": "K3 Air Purifier",
+    "category": "purifier",
+    "image": "/products/purifier/K3.jpg",
+    "moq": 1000,
+    "specs": [
+      "HEPA Filter",
+      "Smart Sensor",
+      "App Control"
+    ],
+    "oem": true
+  },
+  {
+    "id": "purifier-k5",
+    "name": "K5 Pro Air Purifier",
+    "category": "purifier",
+    "image": "/products/purifier/K5.jpg",
+    "moq": 1000,
+    "specs": [
+      "H13 HEPA",
+      "UV-C Light",
+      "Air Quality Display"
+    ],
+    "oem": true
+  },
+  {
+    "id": "toothbrush-t1",
+    "name": "T1 Sonic Toothbrush",
+    "category": "toothbrush",
+    "image": "/products/toothbrush/T1.jpg",
+    "moq": 1000,
+    "specs": [
+      "40,000 VPM",
+      "IPX7 Waterproof",
+      "30-Day Battery"
+    ],
+    "oem": true
+  },
+  {
+    "id": "toothbrush-t3",
+    "name": "T3 Electric Toothbrush",
+    "category": "toothbrush",
+    "image": "/products/toothbrush/T3.jpg",
+    "moq": 1000,
+    "specs": [
+      "5 Modes",
+      "Smart Timer",
+      "USB Charging"
+    ],
+    "oem": true
+  },
+  {
+    "id": "shoedryer-s1",
+    "name": "S1 Shoe Dryer",
+    "category": "shoedryer",
+    "image": "/products/shoedryer/S1.jpg",
+    "moq": 1000,
+    "specs": [
+      "PTC Heating",
+      "Timer",
+      "Sterilization"
+    ],
+    "oem": true
+  },
+  {
+    "id": "mosquito-m1",
+    "name": "M1 Mosquito Lamp",
+    "category": "mosquito",
+    "image": "/products/mosquito/M1.jpg",
+    "moq": 1000,
+    "specs": [
+      "UV Light",
+      "Silent",
+      "USB Powered"
+    ],
+    "oem": true
+  },
+  {
+    "id": "trimmer-c1",
+    "name": "毛球修剪器 C1",
+    "category": "trimmer",
+    "image": "/products/trimmer/C1.jpg",
+    "moq": 100,
+    "specs": [
+      "Colors: 卡其、粉、蓝",
+      "500毫安",
+      "PP",
+      "5W"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-l6",
+    "name": "桌面挂壁暖风机 L6",
+    "category": "heater",
+    "image": "/products/heater/L6.jpg",
+    "moq": 30,
+    "specs": [
+      "Colors: 白色、奶油色",
+      "PP阻燃料",
+      "1200W"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-lks520",
+    "name": "Heater Smart LKS-520",
+    "category": "heater",
+    "image": "/products/heater/LKS-520.png",
+    "moq": 1000,
+    "specs": [
+      "PTC Ceramic",
+      "Overheat Protection",
+      "Energy Efficient"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-x7-1",
+    "name": "Heater Tower X7",
+    "category": "heater",
+    "image": "/products/heater/X7.jpg",
+    "moq": 1000,
+    "specs": [
+      "PTC Ceramic",
+      "Overheat Protection",
+      "Energy Efficient"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-太空人",
+    "name": "Heater Astronaut",
+    "category": "heater",
+    "image": "/products/heater/太空人.jpg",
+    "moq": 1000,
+    "specs": [
+      "PTC Ceramic",
+      "Overheat Protection",
+      "Energy Efficient"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-萌鸭",
+    "name": "Heater Duck Duck",
+    "category": "heater",
+    "image": "/products/heater/萌鸭.jpg",
+    "moq": 1000,
+    "specs": [
+      "PTC Ceramic",
+      "Overheat Protection",
+      "Energy Efficient"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-lks800",
+    "name": "Heater Tower LKS-800",
+    "category": "heater",
+    "image": "/products/heater/LKS-800.jpg",
+    "moq": 1000,
+    "specs": [
+      "PTC Ceramic",
+      "Overheat Protection",
+      "Energy Efficient"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-h02",
+    "name": "Heater Compact H02",
+    "category": "heater",
+    "image": "/products/heater/H02.jpg",
+    "moq": 1000,
+    "specs": [
+      "PTC Ceramic",
+      "Overheat Protection",
+      "Energy Efficient"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-萌宠",
+    "name": "Heater Cute Pet",
+    "category": "heater",
+    "image": "/products/heater/萌宠.jpg",
+    "moq": 1000,
+    "specs": [
+      "PTC Ceramic",
+      "Overheat Protection",
+      "Energy Efficient"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-猫爪",
+    "name": "Heater Cat Paw",
+    "category": "heater",
+    "image": "/products/heater/猫爪.jpg",
+    "moq": 1000,
+    "specs": [
+      "PTC Ceramic",
+      "Overheat Protection",
+      "Energy Efficient"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-小方",
+    "name": "Heater Square Mini",
+    "category": "heater",
+    "image": "/products/heater/小方.jpg",
+    "moq": 1000,
+    "specs": [
+      "PTC Ceramic",
+      "Overheat Protection",
+      "Energy Efficient"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-mr88",
+    "name": "Heater Space MR88",
+    "category": "heater",
+    "image": "/products/heater/MR88.jpg",
+    "moq": 1000,
+    "specs": [
+      "PTC Ceramic",
+      "Overheat Protection",
+      "Energy Efficient"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-lks510",
+    "name": "Heater Smart LKS-510",
+    "category": "heater",
+    "image": "/products/heater/LKS-510.png",
+    "moq": 1000,
+    "specs": [
+      "PTC Ceramic",
+      "Overheat Protection",
+      "Energy Efficient"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-mr10",
+    "name": "Heater Tower MR10",
+    "category": "heater",
+    "image": "/products/heater/MR10.jpg",
+    "moq": 1000,
+    "specs": [
+      "PTC Ceramic",
+      "Overheat Protection",
+      "Energy Efficient"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-clg5",
+    "name": "Heater Cute Lady G5",
+    "category": "heater",
+    "image": "/products/heater/CL-G5.jpg",
+    "moq": 1000,
+    "specs": [
+      "PTC Ceramic",
+      "Overheat Protection",
+      "Energy Efficient"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-x9",
+    "name": "Heater Smart X9",
+    "category": "heater",
+    "image": "/products/heater/X9.jpg",
+    "moq": 1000,
+    "specs": [
+      "PTC Ceramic",
+      "Overheat Protection",
+      "Energy Efficient"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-n1",
+    "name": "Heater Compact N1",
+    "category": "heater",
+    "image": "/products/heater/N1.jpg",
+    "moq": 1000,
+    "specs": [
+      "PTC Ceramic",
+      "Overheat Protection",
+      "Energy Efficient"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-lks500",
+    "name": "Heater Smart LKS-500",
+    "category": "heater",
+    "image": "/products/heater/LKS-500.jpg",
+    "moq": 1000,
+    "specs": [
+      "PTC Ceramic",
+      "Overheat Protection",
+      "Energy Efficient"
+    ],
+    "oem": true
+  },
+  {
+    "id": "mosquito-m15",
+    "name": "Mosquito Lamp Smart M15",
+    "category": "mosquito",
+    "image": "/products/mosquito/M15.jpg",
+    "moq": 1000,
+    "specs": [
+      "UV Light",
+      "Silent Operation",
+      "Reusable Trap"
+    ],
+    "oem": true
+  },
+  {
+    "id": "mosquito-m12",
+    "name": "Mosquito Lamp Deluxe M12",
+    "category": "mosquito",
+    "image": "/products/mosquito/M12.jpg",
+    "moq": 1000,
+    "specs": [
+      "UV Light",
+      "Silent Operation",
+      "Reusable Trap"
+    ],
+    "oem": true
+  },
+  {
+    "id": "mosquito-a5",
+    "name": "Mosquito Lamp Standard A5",
+    "category": "mosquito",
+    "image": "/products/mosquito/A5.jpg",
+    "moq": 1000,
+    "specs": [
+      "UV Light",
+      "Silent Operation",
+      "Reusable Trap"
+    ],
+    "oem": true
+  },
+  {
+    "id": "mosquito-m10",
+    "name": "Mosquito Lamp Premium M10",
+    "category": "mosquito",
+    "image": "/products/mosquito/M10.jpg",
+    "moq": 1000,
+    "specs": [
+      "UV Light",
+      "Silent Operation",
+      "Reusable Trap"
+    ],
+    "oem": true
+  },
+  {
+    "id": "mosquito-m8天才小熊",
+    "name": "Mosquito Lamp Teddy Bear M8",
+    "category": "mosquito",
+    "image": "/products/mosquito/M8天才小熊.jpg",
+    "moq": 1000,
+    "specs": [
+      "UV Light",
+      "Silent Operation",
+      "Reusable Trap"
+    ],
+    "oem": true
+  },
+  {
+    "id": "mosquito-m12阿拉丁神灯",
+    "name": "Mosquito Lamp Aladdin M12",
+    "category": "mosquito",
+    "image": "/products/mosquito/M12阿拉丁神灯.jpg",
+    "moq": 1000,
+    "specs": [
+      "UV Light",
+      "Silent Operation",
+      "Reusable Trap"
+    ],
+    "oem": true
+  },
+  {
+    "id": "mosquito-m8",
+    "name": "Mosquito Lamp M8",
+    "category": "mosquito",
+    "image": "/products/mosquito/M8.jpg",
+    "moq": 1000,
+    "specs": [
+      "UV Light",
+      "Silent Operation",
+      "Reusable Trap"
+    ],
+    "oem": true
+  },
+  {
+    "id": "mosquito-w3",
+    "name": "Mosquito Lamp Wall W3",
+    "category": "mosquito",
+    "image": "/products/mosquito/W3.jpg",
+    "moq": 1000,
+    "specs": [
+      "UV Light",
+      "Silent Operation",
+      "Reusable Trap"
+    ],
+    "oem": true
+  },
+  {
+    "id": "mosquito-dw888",
+    "name": "Mosquito Lamp DW-888",
+    "category": "mosquito",
+    "image": "/products/mosquito/DW-888.jpg",
+    "moq": 1000,
+    "specs": [
+      "UV Light",
+      "Silent Operation",
+      "Reusable Trap"
+    ],
+    "oem": true
+  },
+  {
+    "id": "mosquito-w1",
+    "name": "Mosquito Lamp Wall W1",
+    "category": "mosquito",
+    "image": "/products/mosquito/W1.jpg",
+    "moq": 1000,
+    "specs": [
+      "UV Light",
+      "Silent Operation",
+      "Reusable Trap"
+    ],
+    "oem": true
+  },
+  {
+    "id": "shoedryer-m1",
+    "name": "Shoe Dryer Standard M1",
+    "category": "shoedryer",
+    "image": "/products/shoedryer/M1.jpg",
+    "moq": 1000,
+    "specs": [
+      "PTC Heating",
+      "Timer Function",
+      "Anti-slip Base"
+    ],
+    "oem": true
+  },
+  {
+    "id": "shoedryer-hx1",
+    "name": "Shoe Dryer HX-1",
+    "category": "shoedryer",
+    "image": "/products/shoedryer/HX-1.jpg",
+    "moq": 1000,
+    "specs": [
+      "PTC Heating",
+      "Timer Function",
+      "Anti-slip Base"
+    ],
+    "oem": true
+  },
+  {
+    "id": "shoedryer-hx6",
+    "name": "Shoe Dryer HX-6",
+    "category": "shoedryer",
+    "image": "/products/shoedryer/HX-6.jpg",
+    "moq": 1000,
+    "specs": [
+      "PTC Heating",
+      "Timer Function",
+      "Anti-slip Base"
+    ],
+    "oem": true
+  },
+  {
+    "id": "shoedryer-h03",
+    "name": "烘鞋器 H03",
+    "category": "shoedryer",
+    "image": "/products/shoedryer/H03.jpg",
+    "moq": 30,
+    "specs": [
+      "Colors: 白色、黑色",
+      "PP",
+      "150W"
+    ],
+    "oem": true
+  },
+  {
+    "id": "shoedryer-hx02",
+    "name": "Shoe Dryer HX-02",
+    "category": "shoedryer",
+    "image": "/products/shoedryer/HX-02.jpg",
+    "moq": 1000,
+    "specs": [
+      "PTC Heating",
+      "Timer Function",
+      "Anti-slip Base"
+    ],
+    "oem": true
+  },
+  {
+    "id": "trimmer-m1",
+    "name": "毛球修剪器 M1",
+    "category": "trimmer",
+    "image": "/products/trimmer/M1.jpg",
+    "moq": 1000,
+    "specs": [
+      "Colors: 紫色、奶黄色",
+      "500毫安",
+      "ABS",
+      "3W"
+    ],
+    "oem": true
+  },
+  {
+    "id": "trimmer-23款c1",
+    "name": "Fabric Shaver 2023 C1",
+    "category": "trimmer",
+    "image": "/products/trimmer/23款C1.jpg",
+    "moq": 1000,
+    "specs": [
+      "3-blade System",
+      "Rechargeable",
+      "LED Display"
+    ],
+    "oem": true
+  },
+  {
+    "id": "trimmer-r5",
+    "name": "毛球修剪器 R5",
+    "category": "trimmer",
+    "image": "/products/trimmer/R5.jpg",
+    "moq": 100,
+    "specs": [
+      "Colors: 米色、灰色、粉色",
+      "300毫安",
+      "pp",
+      "3W"
+    ],
+    "oem": true
+  },
+  {
+    "id": "trimmer-r7",
+    "name": "Fabric Shaver R7",
+    "category": "trimmer",
+    "image": "/products/trimmer/R7.jpg",
+    "moq": 1000,
+    "specs": [
+      "3-blade System",
+      "Rechargeable",
+      "LED Display"
+    ],
+    "oem": true
+  },
+  {
+    "id": "trimmer-q6",
+    "name": "Fabric Shaver Compact Q6",
+    "category": "trimmer",
+    "image": "/products/trimmer/Q6.jpg",
+    "moq": 1000,
+    "specs": [
+      "3-blade System",
+      "Rechargeable",
+      "LED Display"
+    ],
+    "oem": true
+  },
+  {
+    "id": "trimmer-r8",
+    "name": "Fabric Shaver R8",
+    "category": "trimmer",
+    "image": "/products/trimmer/R8.jpg",
+    "moq": 1000,
+    "specs": [
+      "3-blade System",
+      "Rechargeable",
+      "LED Display"
+    ],
+    "oem": true
+  },
+  {
+    "id": "trimmer-ht211",
+    "name": "Fabric Shaver HT211",
+    "category": "trimmer",
+    "image": "/products/trimmer/HT211.jpg",
+    "moq": 1000,
+    "specs": [
+      "3-blade System",
+      "Rechargeable",
+      "LED Display"
+    ],
+    "oem": true
+  },
+  {
+    "id": "trimmer-c1-1",
+    "name": "Fabric Shaver Standard C1",
+    "category": "trimmer",
+    "image": "/products/trimmer/C1.jpg",
+    "moq": 1000,
+    "specs": [
+      "3-blade System",
+      "Rechargeable",
+      "LED Display"
+    ],
+    "oem": true
+  },
+  {
+    "id": "trimmer-c2",
+    "name": "Fabric Shaver Deluxe C2",
+    "category": "trimmer",
+    "image": "/products/trimmer/C2.jpg",
+    "moq": 1000,
+    "specs": [
+      "3-blade System",
+      "Rechargeable",
+      "LED Display"
+    ],
+    "oem": true
+  },
+  {
+    "id": "trimmer-c3",
+    "name": "毛球修剪器 C3",
+    "category": "trimmer",
+    "image": "/products/trimmer/C3.jpg",
+    "moq": 100,
+    "specs": [
+      "Colors: 白灰、卡其、粉",
+      "ABS",
+      "5W"
+    ],
+    "oem": true
+  },
+  {
+    "id": "purifier-ejjhq02",
+    "name": "Air Purifier EJ-JHQ02",
+    "category": "purifier",
+    "image": "/products/purifier/EJ-JHQ02.jpg",
+    "moq": 1000,
+    "specs": [
+      "HEPA Filter",
+      "PM2.5 Detection",
+      "Quiet Operation"
+    ],
+    "oem": true
+  },
+  {
+    "id": "purifier-ejjhq03",
+    "name": "Air Purifier EJ-JHQ03",
+    "category": "purifier",
+    "image": "/products/purifier/EJ-JHQ03.jpg",
+    "moq": 1000,
+    "specs": [
+      "HEPA Filter",
+      "PM2.5 Detection",
+      "Quiet Operation"
+    ],
+    "oem": true
+  },
+  {
+    "id": "purifier-ejjhq01",
+    "name": "Air Purifier EJ-JHQ01",
+    "category": "purifier",
+    "image": "/products/purifier/EJ-JHQ01.jpg",
+    "moq": 1000,
+    "specs": [
+      "HEPA Filter",
+      "PM2.5 Detection",
+      "Quiet Operation"
+    ],
+    "oem": true
+  },
+  {
+    "id": "purifier-ap1288",
+    "name": "Air Purifier AP-1288",
+    "category": "purifier",
+    "image": "/products/purifier/AP-1288.jpg",
+    "moq": 1000,
+    "specs": [
+      "HEPA Filter",
+      "PM2.5 Detection",
+      "Quiet Operation"
+    ],
+    "oem": true
+  },
+  {
+    "id": "purifier-ap1689",
+    "name": "Air Purifier AP-1689",
+    "category": "purifier",
+    "image": "/products/purifier/AP-1689.jpg",
+    "moq": 1000,
+    "specs": [
+      "HEPA Filter",
+      "PM2.5 Detection",
+      "Quiet Operation"
+    ],
+    "oem": true
+  },
+  {
+    "id": "household-xj06",
+    "name": "Household Appliance XJ06",
+    "category": "household",
+    "image": "/products/household/XJ06.jpg",
+    "moq": 1000,
+    "specs": [
+      "Modern Design",
+      "Energy Efficient",
+      "Easy to Use"
+    ],
+    "oem": true
+  },
+  {
+    "id": "household-rf198",
+    "name": "Household Appliance RF-198",
+    "category": "household",
+    "image": "/products/household/RF-198.jpg",
+    "moq": 1000,
+    "specs": [
+      "Modern Design",
+      "Energy Efficient",
+      "Easy to Use"
+    ],
+    "oem": true
+  },
+  {
+    "id": "household-t01",
+    "name": "Household Appliance T01",
+    "category": "household",
+    "image": "/products/household/T01.jpg",
+    "moq": 1000,
+    "specs": [
+      "Modern Design",
+      "Energy Efficient",
+      "Easy to Use"
+    ],
+    "oem": true
+  },
+  {
+    "id": "household-a6",
+    "name": "二合一料理打蛋器 A6",
+    "category": "household",
+    "image": "/products/household/A6.jpg",
+    "moq": 40,
+    "specs": [
+      "Colors: 白色、绿色",
+      "800毫安",
+      "5W"
+    ],
+    "oem": true
+  },
+  {
+    "id": "household-t07",
+    "name": "Household Appliance T07",
+    "category": "household",
+    "image": "/products/household/T07.jpg",
+    "moq": 1000,
+    "specs": [
+      "Modern Design",
+      "Energy Efficient",
+      "Easy to Use"
+    ],
+    "oem": true
+  },
+  {
+    "id": "household-sram101",
+    "name": "Household Appliance SRAM-101",
+    "category": "household",
+    "image": "/products/household/SRAM-101.png",
+    "moq": 1000,
+    "specs": [
+      "Modern Design",
+      "Energy Efficient",
+      "Easy to Use"
+    ],
+    "oem": true
+  },
+  {
+    "id": "household-k2",
+    "name": "即热饮水机 K2",
+    "category": "household",
+    "image": "/products/household/K2.jpg",
+    "moq": 28,
+    "specs": [
+      "Colors: 奶油白、熏依紫",
+      "直插",
+      "1800W"
+    ],
+    "oem": true
+  },
+  {
+    "id": "household-wd201",
+    "name": "Household Appliance WD201",
+    "category": "household",
+    "image": "/products/household/WD201.png",
+    "moq": 1000,
+    "specs": [
+      "Modern Design",
+      "Energy Efficient",
+      "Easy to Use"
+    ],
+    "oem": true
+  },
+  {
+    "id": "household-d02",
+    "name": "2025新款打蛋器 D02",
+    "category": "household",
+    "image": "/products/household/D02.jpg",
+    "moq": 1000,
+    "specs": [
+      "Colors: 黑/米/粉/绿"
+    ],
+    "oem": true
+  },
+  {
+    "id": "household-d01",
+    "name": "Household Appliance D01",
+    "category": "household",
+    "image": "/products/household/D01.jpg",
+    "moq": 1000,
+    "specs": [
+      "Modern Design",
+      "Energy Efficient",
+      "Easy to Use"
+    ],
+    "oem": true
+  },
+  {
+    "id": "household-d05",
+    "name": "Household Appliance D05",
+    "category": "household",
+    "image": "/products/household/D05.jpg",
+    "moq": 1000,
+    "specs": [
+      "Modern Design",
+      "Energy Efficient",
+      "Easy to Use"
+    ],
+    "oem": true
+  },
+  {
+    "id": "household-d06",
+    "name": "Household Appliance D06",
+    "category": "household",
+    "image": "/products/household/D06.jpg",
+    "moq": 1000,
+    "specs": [
+      "Modern Design",
+      "Energy Efficient",
+      "Easy to Use"
+    ],
+    "oem": true
+  },
+  {
+    "id": "household-p6",
+    "name": "Household Appliance P6",
+    "category": "household",
+    "image": "/products/household/P6.jpg",
+    "moq": 1000,
+    "specs": [
+      "Modern Design",
+      "Energy Efficient",
+      "Easy to Use"
+    ],
+    "oem": true
+  },
+  {
+    "id": "household-nfya5",
+    "name": "Household Appliance NFY-A5",
+    "category": "household",
+    "image": "/products/household/NFY-A5.jpg",
+    "moq": 1000,
+    "specs": [
+      "Modern Design",
+      "Energy Efficient",
+      "Easy to Use"
+    ],
+    "oem": true
+  },
+  {
+    "id": "household-z3",
+    "name": "高棚玻璃杯榨汁机 Z3",
+    "category": "household",
+    "image": "/products/household/Z3.jpg",
+    "moq": 40,
+    "specs": [
+      "Colors: 桃粉/蓝/奶白",
+      "充电款",
+      "5W"
+    ],
+    "oem": true
+  },
+  {
+    "id": "household-99档",
+    "name": "Household Appliance 99档",
+    "category": "household",
+    "image": "/products/household/99档.jpg",
+    "moq": 1000,
+    "specs": [
+      "Modern Design",
+      "Energy Efficient",
+      "Easy to Use"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-xf08",
+    "name": "Hair Dryer XF08",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/XF08.jpg",
+    "moq": 1000,
+    "specs": [
+      "Ionic Technology",
+      "Multiple Heat Settings",
+      "Foldable Handle"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-pro13-1",
+    "name": "Hair Dryer High-Speed PRO13",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/PRO13.jpg",
+    "moq": 1000,
+    "specs": [
+      "Ionic Technology",
+      "Multiple Heat Settings",
+      "Foldable Handle"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-a6-1",
+    "name": "Hair Dryer Professional A6",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/A6.jpg",
+    "moq": 1000,
+    "specs": [
+      "Ionic Technology",
+      "Multiple Heat Settings",
+      "Foldable Handle"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-pro16",
+    "name": "高速吹风机 PRO16",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/PRO16.png",
+    "moq": 50,
+    "specs": [
+      "Colors: 白色、黑色",
+      "有刷电机",
+      "ABS",
+      "2200W"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-妙阿喵nft01",
+    "name": "Hair Dryer Meow NFT-01",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/妙阿喵NFT-01.png",
+    "moq": 1000,
+    "specs": [
+      "Ionic Technology",
+      "Multiple Heat Settings",
+      "Foldable Handle"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-8088",
+    "name": "Hair Dryer Model 8088",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/8088.jpg",
+    "moq": 1000,
+    "specs": [
+      "Ionic Technology",
+      "Multiple Heat Settings",
+      "Foldable Handle"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-f4-1",
+    "name": "Hair Dryer Travel F4",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/F4.jpg",
+    "moq": 1000,
+    "specs": [
+      "Ionic Technology",
+      "Multiple Heat Settings",
+      "Foldable Handle"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-h02",
+    "name": "吹风机 H02",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/H02.jpg",
+    "moq": 13,
+    "specs": [
+      "Colors: 白色、黑色",
+      "有刷电机",
+      "ABS",
+      "800W/2000-2400W"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-ld1425",
+    "name": "Hair Dryer Professional LD-1425",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/LD-1425.jpg",
+    "moq": 1000,
+    "specs": [
+      "Ionic Technology",
+      "Multiple Heat Settings",
+      "Foldable Handle"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-f3-1",
+    "name": "Hair Dryer Compact F3",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/F3.jpg",
+    "moq": 1000,
+    "specs": [
+      "Ionic Technology",
+      "Multiple Heat Settings",
+      "Foldable Handle"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-x99",
+    "name": "大折叠吹风机 X99",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/X99.jpg",
+    "moq": 40,
+    "specs": [
+      "Colors: 黑色、白色",
+      "有刷电机",
+      "ABS",
+      "2000-2400W"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-3306",
+    "name": "高速折叠吹风机 3306",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/3306.jpg",
+    "moq": 1000,
+    "specs": [
+      "Colors: 白色、黑色",
+      "有刷电机",
+      "ABS",
+      "1000W"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-f9",
+    "name": "Hair Dryer Turbo F9",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/F9.jpg",
+    "moq": 1000,
+    "specs": [
+      "Ionic Technology",
+      "Multiple Heat Settings",
+      "Foldable Handle"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-b5",
+    "name": "Hair Dryer Powerful B5",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/B5.jpg",
+    "moq": 1000,
+    "specs": [
+      "Ionic Technology",
+      "Multiple Heat Settings",
+      "Foldable Handle"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-zh08",
+    "name": "Hair Dryer ZH08",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/ZH08.jpg",
+    "moq": 1000,
+    "specs": [
+      "Ionic Technology",
+      "Multiple Heat Settings",
+      "Foldable Handle"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-8802",
+    "name": "Hair Dryer Model 8802",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/8802.jpg",
+    "moq": 1000,
+    "specs": [
+      "Ionic Technology",
+      "Multiple Heat Settings",
+      "Foldable Handle"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-zh900",
+    "name": "Hair Dryer ZH900",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/ZH900.jpg",
+    "moq": 1000,
+    "specs": [
+      "Ionic Technology",
+      "Multiple Heat Settings",
+      "Foldable Handle"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-3833",
+    "name": "吹风机 3833",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/3833.jpg",
+    "moq": 19,
+    "specs": [
+      "Colors: 白银色、灰紫色",
+      "有刷电机",
+      "ABS",
+      "1700W"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-b2",
+    "name": "吹风机 B2",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/B2.jpg",
+    "moq": 50,
+    "specs": [
+      "Colors: 绿色",
+      "有刷电机",
+      "ABS",
+      "1600W"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-f201",
+    "name": "Fan F201",
+    "category": "fan",
+    "image": "/products/fan/F201.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-amf5",
+    "name": "Fan AM-F5",
+    "category": "fan",
+    "image": "/products/fan/AM-F5.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-32款",
+    "name": "Fan Model 32",
+    "category": "fan",
+    "image": "/products/fan/32款.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-jx995",
+    "name": "Fan JX-995",
+    "category": "fan",
+    "image": "/products/fan/JX-995.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-33款",
+    "name": "Fan Model 33",
+    "category": "fan",
+    "image": "/products/fan/33款.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-f103",
+    "name": "手持涡轮风扇 F103",
+    "category": "fan",
+    "image": "/products/fan/F103.jpg",
+    "moq": 1000,
+    "specs": [
+      "Colors: 橙红色",
+      "1800毫安",
+      "有刷电机"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-s39",
+    "name": "可调节落地扇 S39",
+    "category": "fan",
+    "image": "/products/fan/S39.jpg",
+    "moq": 24,
+    "specs": [
+      "Colors: 白灰、白黑",
+      "4000毫安",
+      "无刷电机"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-f1-1",
+    "name": "Fan F1",
+    "category": "fan",
+    "image": "/products/fan/F1.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-七彩小海螺",
+    "name": "Fan Rainbow Shell",
+    "category": "fan",
+    "image": "/products/fan/七彩小海螺.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-w39",
+    "name": "Fan W39",
+    "category": "fan",
+    "image": "/products/fan/W39.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-q9",
+    "name": "Fan Q9",
+    "category": "fan",
+    "image": "/products/fan/Q9.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-三孔喷雾",
+    "name": "Fan Triple Mist",
+    "category": "fan",
+    "image": "/products/fan/三孔喷雾.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-s32",
+    "name": "Fan S32",
+    "category": "fan",
+    "image": "/products/fan/S32.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-s27",
+    "name": "Fan S27",
+    "category": "fan",
+    "image": "/products/fan/S27.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-s33",
+    "name": "Fan S33",
+    "category": "fan",
+    "image": "/products/fan/S33.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-s31",
+    "name": "Fan S31",
+    "category": "fan",
+    "image": "/products/fan/S31.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-s19",
+    "name": "手持风扇 S19",
+    "category": "fan",
+    "image": "/products/fan/S19.jpg",
+    "moq": 100,
+    "specs": [
+      "Colors: 白色、粉色",
+      "500毫安",
+      "有刷电机"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-s18",
+    "name": "Fan S18",
+    "category": "fan",
+    "image": "/products/fan/S18.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-s30",
+    "name": "双头风扇 S30",
+    "category": "fan",
+    "image": "/products/fan/S30.jpg",
+    "moq": 1000,
+    "specs": [
+      "Colors: 白色、灰紫色",
+      "3000毫安",
+      "无刷电机"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-s24",
+    "name": "Fan S24",
+    "category": "fan",
+    "image": "/products/fan/S24.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-s20",
+    "name": "Fan S20",
+    "category": "fan",
+    "image": "/products/fan/S20.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-s34",
+    "name": "Fan S34",
+    "category": "fan",
+    "image": "/products/fan/S34.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-小熊",
+    "name": "Fan Teddy Bear",
+    "category": "fan",
+    "image": "/products/fan/小熊.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-xsj8",
+    "name": "Fan XSJ-8",
+    "category": "fan",
+    "image": "/products/fan/XSJ-8.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-s35",
+    "name": "Fan S35",
+    "category": "fan",
+    "image": "/products/fan/S35.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-f12",
+    "name": "Fan F12",
+    "category": "fan",
+    "image": "/products/fan/F12.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-s22",
+    "name": "Fan S22",
+    "category": "fan",
+    "image": "/products/fan/S22.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-f11",
+    "name": "Fan F11",
+    "category": "fan",
+    "image": "/products/fan/F11.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-a8",
+    "name": "Fan A8",
+    "category": "fan",
+    "image": "/products/fan/A8.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-伸缩折叠",
+    "name": "Fan Telescopic",
+    "category": "fan",
+    "image": "/products/fan/伸缩折叠.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-31款",
+    "name": "Fan Model 31",
+    "category": "fan",
+    "image": "/products/fan/31款.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "fan-s40",
+    "name": "Fan S40",
+    "category": "fan",
+    "image": "/products/fan/S40.jpg",
+    "moq": 1000,
+    "specs": [
+      "Oscillating",
+      "Remote Control",
+      "Sleep Mode"
+    ],
+    "oem": true
+  },
+  {
+    "id": "toothbrush-x2",
+    "name": "电动牙刷 X2",
+    "category": "toothbrush",
+    "image": "/products/toothbrush/X2.jpg",
+    "moq": 200,
+    "specs": [
+      "Colors: 白、粉、黑",
+      "500毫安",
+      "充电款"
+    ],
+    "oem": true
+  },
+  {
+    "id": "toothbrush-x3",
+    "name": "电动牙刷 X3",
+    "category": "toothbrush",
+    "image": "/products/toothbrush/X3.jpg",
+    "moq": 200,
+    "specs": [
+      "Colors: 白、粉、黑",
+      "500毫安",
+      "充电款"
+    ],
+    "oem": true
+  },
+  {
+    "id": "toothbrush-rb31b",
+    "name": "Electric Toothbrush R-B31b",
+    "category": "toothbrush",
+    "image": "/products/toothbrush/R-B31b.jpg",
+    "moq": 1000,
+    "specs": [
+      "Sonic Technology",
+      "Pressure Sensor",
+      "Multiple Modes"
+    ],
+    "oem": true
+  },
+  {
+    "id": "toothbrush-rb31a",
+    "name": "Electric Toothbrush R-B31a",
+    "category": "toothbrush",
+    "image": "/products/toothbrush/R-B31a.jpg",
+    "moq": 1000,
+    "specs": [
+      "Sonic Technology",
+      "Pressure Sensor",
+      "Multiple Modes"
+    ],
+    "oem": true
+  },
+  {
+    "id": "toothbrush-x5",
+    "name": "电动牙刷 X5",
+    "category": "toothbrush",
+    "image": "/products/toothbrush/X5.jpg",
+    "moq": 100,
+    "specs": [
+      "Colors: 白、粉、黑、绿",
+      "500毫安",
+      "充电款"
+    ],
+    "oem": true
+  },
+  {
+    "id": "toothbrush-rb",
+    "name": "Electric Toothbrush R-B",
+    "category": "toothbrush",
+    "image": "/products/toothbrush/R-B.jpg",
+    "moq": 1000,
+    "specs": [
+      "Sonic Technology",
+      "Pressure Sensor",
+      "Multiple Modes"
+    ],
+    "oem": true
+  },
+  {
+    "id": "toothbrush-rb32",
+    "name": "Electric Toothbrush R-B32",
+    "category": "toothbrush",
+    "image": "/products/toothbrush/R-B32.jpg",
+    "moq": 1000,
+    "specs": [
+      "Sonic Technology",
+      "Pressure Sensor",
+      "Multiple Modes"
+    ],
+    "oem": true
+  },
+  {
+    "id": "humidifier-x3-1",
+    "name": "Humidifier X3",
+    "category": "humidifier",
+    "image": "/products/humidifier/X3.jpg",
+    "moq": 1000,
+    "specs": [
+      "Ultrasonic",
+      "Smart Control",
+      "Essential Oil Diffuser"
+    ],
+    "oem": true
+  },
+  {
+    "id": "humidifier-amj6",
+    "name": "Humidifier Aroma Mist J6",
+    "category": "humidifier",
+    "image": "/products/humidifier/AM-J6.jpg",
+    "moq": 1000,
+    "specs": [
+      "Ultrasonic",
+      "Smart Control",
+      "Essential Oil Diffuser"
+    ],
+    "oem": true
+  },
+  {
+    "id": "humidifier-x1-1",
+    "name": "Humidifier Premium X1",
+    "category": "humidifier",
+    "image": "/products/humidifier/X1.jpg",
+    "moq": 1000,
+    "specs": [
+      "Ultrasonic",
+      "Smart Control",
+      "Essential Oil Diffuser"
+    ],
+    "oem": true
+  },
+  {
+    "id": "humidifier-n9",
+    "name": "Humidifier Nebulizer N9",
+    "category": "humidifier",
+    "image": "/products/humidifier/N9.jpg",
+    "moq": 1000,
+    "specs": [
+      "Ultrasonic",
+      "Smart Control",
+      "Essential Oil Diffuser"
+    ],
+    "oem": true
+  },
+  {
+    "id": "humidifier-x5-1",
+    "name": "Humidifier X5",
+    "category": "humidifier",
+    "image": "/products/humidifier/X5.jpg",
+    "moq": 1000,
+    "specs": [
+      "Ultrasonic",
+      "Smart Control",
+      "Essential Oil Diffuser"
+    ],
+    "oem": true
+  },
+  {
+    "id": "humidifier-amj2",
+    "name": "Humidifier Aroma Mist J2",
+    "category": "humidifier",
+    "image": "/products/humidifier/AM-J2.jpg",
+    "moq": 1000,
+    "specs": [
+      "Ultrasonic",
+      "Smart Control",
+      "Essential Oil Diffuser"
+    ],
+    "oem": true
+  },
+  {
+    "id": "humidifier-x6-1",
+    "name": "Humidifier Pro X6",
+    "category": "humidifier",
+    "image": "/products/humidifier/X6.jpg",
+    "moq": 1000,
+    "specs": [
+      "Ultrasonic",
+      "Smart Control",
+      "Essential Oil Diffuser"
+    ],
+    "oem": true
+  },
+  {
+    "id": "humidifier-j1",
+    "name": "Humidifier Standard J1",
+    "category": "humidifier",
+    "image": "/products/humidifier/J1.jpg",
+    "moq": 1000,
+    "specs": [
+      "Ultrasonic",
+      "Smart Control",
+      "Essential Oil Diffuser"
+    ],
+    "oem": true
+  },
+  {
+    "id": "humidifier-j01",
+    "name": "Humidifier Classic J01",
+    "category": "humidifier",
+    "image": "/products/humidifier/J01.jpg",
+    "moq": 1000,
+    "specs": [
+      "Ultrasonic",
+      "Smart Control",
+      "Essential Oil Diffuser"
+    ],
+    "oem": true
+  },
+  {
+    "id": "humidifier-x8-1",
+    "name": "Humidifier Compact X8",
+    "category": "humidifier",
+    "image": "/products/humidifier/X8.jpg",
+    "moq": 1000,
+    "specs": [
+      "Ultrasonic",
+      "Smart Control",
+      "Essential Oil Diffuser"
+    ],
+    "oem": true
+  },
+  {
+    "id": "humidifier-amj8",
+    "name": "Humidifier Aroma Mist J8",
+    "category": "humidifier",
+    "image": "/products/humidifier/AM-J8.jpg",
+    "moq": 1000,
+    "specs": [
+      "Ultrasonic",
+      "Smart Control",
+      "Essential Oil Diffuser"
+    ],
+    "oem": true
+  },
+  {
+    "id": "hairdryer-ld-1425",
+    "name": "国标高速吹风机 LD-1425",
+    "category": "hairdryer",
+    "image": "/products/hairdryer/LD-1425.jpg",
+    "moq": 40,
+    "specs": [
+      "Colors: 紫、粉、蓝",
+      "无刷电机",
+      "ABS+PC",
+      "1400W"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-lks-510",
+    "name": "桌面暖风机 LKS-510",
+    "category": "heater",
+    "image": "/products/heater/LKS-510.png",
+    "moq": 30,
+    "specs": [
+      "Colors: 白色、灰色",
+      "PP阻燃料",
+      "500W"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-lks-520",
+    "name": "桌面暖风机 LKS-520",
+    "category": "heater",
+    "image": "/products/heater/LKS-520.png",
+    "moq": 20,
+    "specs": [
+      "Colors: 灰紫色、卡其色",
+      "PP阻燃料",
+      "500W"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-cl-g5",
+    "name": "桌面暖风机 CL-G5",
+    "category": "heater",
+    "image": "/products/heater/CL-G5.jpg",
+    "moq": 18,
+    "specs": [
+      "Colors: 黑红色",
+      "PP阻燃料",
+      "1200W"
+    ],
+    "oem": true
+  },
+  {
+    "id": "heater-lks-800",
+    "name": "落地暖风机 LKS-800",
+    "category": "heater",
+    "image": "/products/heater/LKS-800.jpg",
+    "moq": 24,
+    "specs": [
+      "Colors: 白色、黑色",
+      "PP阻燃料",
+      "800W"
+    ],
+    "oem": true
+  },
+  {
+    "id": "shoedryer-hx-1",
+    "name": "烘鞋器 HX-1",
+    "category": "shoedryer",
+    "image": "/products/shoedryer/HX-1.jpg",
+    "moq": 30,
+    "specs": [
+      "Colors: 白色",
+      "ABS",
+      "180W"
+    ],
+    "oem": true
+  },
+  {
+    "id": "shoedryer-hx-02",
+    "name": "烘鞋器 HX-02",
+    "category": "shoedryer",
+    "image": "/products/shoedryer/HX-02.jpg",
+    "moq": 30,
+    "specs": [
+      "Colors: 白色、灰紫色",
+      "ABS",
+      "150W"
+    ],
+    "oem": true
+  },
+  {
+    "id": "shoedryer-hx-6",
+    "name": "烘鞋器 HX-6",
+    "category": "shoedryer",
+    "image": "/products/shoedryer/HX-6.jpg",
+    "moq": 1000,
+    "specs": [
+      "Colors: 卡其色",
+      "ABS"
+    ],
+    "oem": true
+  },
+  {
+    "id": "humidifier-am-j6",
+    "name": "双头加湿器(充电) AM-J6",
+    "category": "humidifier",
+    "image": "/products/humidifier/AM-J6.jpg",
+    "moq": 60,
+    "specs": [
+      "Colors: 白色、粉色",
+      "充电款",
+      "600毫安"
+    ],
+    "oem": true
+  },
+  {
+    "id": "humidifier-am-j2",
+    "name": "七彩车载加湿器 AM-J2",
+    "category": "humidifier",
+    "image": "/products/humidifier/AM-J2.jpg",
+    "moq": 120,
+    "specs": [
+      "Colors: 白色、粉色",
+      "直插款",
+      "ABS"
+    ],
+    "oem": true
+  },
+  {
+    "id": "toothbrush-r-b31b",
+    "name": "冲牙器 R-B31b",
+    "category": "toothbrush",
+    "image": "/products/toothbrush/R-B31b.jpg",
+    "moq": 56,
+    "specs": [
+      "Colors: 白、粉、绿",
+      "800毫安",
+      "充电款"
+    ],
+    "oem": true
+  },
+  {
+    "id": "purifier-ej-jhq01",
+    "name": "滤芯 EJ-JHQ01",
+    "category": "purifier",
+    "image": "/products/purifier/EJ-JHQ01.jpg",
+    "moq": 100,
+    "specs": [
+      "Colors: 白色",
+      "10.310.313.3"
+    ],
+    "oem": true
+  },
+  {
+    "id": "purifier-ej-jhq02",
+    "name": "方形空气净化器 EJ-JHQ02",
+    "category": "purifier",
+    "image": "/products/purifier/EJ-JHQ02.jpg",
+    "moq": 24,
+    "specs": [
+      "Colors: 白色、黑色",
+      "直插式",
+      "131324.3cm"
+    ],
+    "oem": true
+  },
+  {
+    "id": "purifier-ej-jhq03",
+    "name": "方形空气净化器 EJ-JHQ03",
+    "category": "purifier",
+    "image": "/products/purifier/EJ-JHQ03.jpg",
+    "moq": 60,
+    "specs": [
+      "Colors: 白色",
+      "直插式",
+      "613.517.3cm"
+    ],
+    "oem": true
+  }
+]
