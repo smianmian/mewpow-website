@@ -1,12 +1,11 @@
 import './style.css';
 import translationsData from './translations.json';
+import productsData from './products.json';
 
 // ===== Global State =====
-const productsUrl = '/products.json';
-
 let currentLang = 'en'; // Default language
 let translations = translationsData;
-let products = [];
+let products = productsData;
 let inquiryBasket = [];
 
 // Fallback logic for languages
@@ -20,23 +19,12 @@ const langFallbacks = {
 };
 
 // ===== Initialize App =====
-async function init() {
-  await loadProducts();
+function init() {
   setupEventListeners();
   updateLanguage(currentLang);
   renderProducts();
   setupScrollAnimations();
   setupNavbarScroll();
-}
-
-// ===== Load Data =====
-async function loadProducts() {
-  try {
-    const response = await fetch('/products.json');
-    products = await response.json();
-  } catch (error) {
-    console.error('Failed to load products:', error);
-  }
 }
 
 // ===== Language Switching =====
