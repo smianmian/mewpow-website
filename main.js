@@ -1,11 +1,11 @@
 import './style.css';
+import translationsData from './translations.json';
 
 // ===== Global State =====
-const translationsUrl = '/translations.json';
 const productsUrl = '/products.json';
 
 let currentLang = 'en'; // Default language
-let translations = {};
+let translations = translationsData;
 let products = [];
 let inquiryBasket = [];
 
@@ -21,7 +21,6 @@ const langFallbacks = {
 
 // ===== Initialize App =====
 async function init() {
-  await loadTranslations();
   await loadProducts();
   setupEventListeners();
   updateLanguage(currentLang);
@@ -31,15 +30,6 @@ async function init() {
 }
 
 // ===== Load Data =====
-async function loadTranslations() {
-  try {
-    const response = await fetch('/translations.json');
-    translations = await response.json();
-  } catch (error) {
-    console.error('Failed to load translations:', error);
-  }
-}
-
 async function loadProducts() {
   try {
     const response = await fetch('/products.json');
