@@ -308,39 +308,17 @@ function setupEventListeners() {
 async function handleFormSubmit(e) {
   e.preventDefault();
 
-  const formData = new FormData(e.target);
-  const data = Object.fromEntries(formData.entries());
+  const formLinks = {
+    'zh': 'https://0tqctujq.jsjform.com/f/McScOa',
+    'en': 'https://0tqctujq.jsjform.com/f/xf81sz',
+    'zh-TW': 'https://0tqctujq.jsjform.com/f/hoioHK'
+  };
 
-  // Add inquiry basket products
-  if (inquiryBasket.length > 0) {
-    const productNames = inquiryBasket.map(id => {
-      const product = products.find(p => p.id === id);
-      return product ? product.name : id;
-    }).join(', ');
-    data.inquiryProducts = productNames;
-  }
+  // Default to English if a specific form for the current language doesn't exist
+  const urlToOpen = formLinks[currentLang] || formLinks['en'];
 
-  // Show loading state
-  const submitBtn = e.target.querySelector('button[type="submit"]');
-  const originalText = submitBtn.textContent;
-  submitBtn.textContent = 'Sending...';
-  submitBtn.disabled = true;
-
-  try {
-    // Here you would send to your backend or form service
-    // For now, we'll simulate a successful submission
-    await new Promise(resolve => setTimeout(resolve, 1500));
-
-    showNotification('✅ Inquiry sent successfully! We will contact you soon.');
-    e.target.reset();
-    inquiryBasket = [];
-    updateBasketCount();
-  } catch (error) {
-    showNotification('❌ Failed to send inquiry. Please try again.');
-  } finally {
-    submitBtn.textContent = originalText;
-    submitBtn.disabled = false;
-  }
+  // Open the form in a new tab
+  window.open(urlToOpen, '_blank', 'noopener,noreferrer');
 }
 
 // ===== Catalog Download =====
